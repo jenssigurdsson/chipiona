@@ -4,10 +4,10 @@ import { t } from "../i18n";
 
 const CATEGORIES: Array<{ key: Category | "all"; emoji: string }> = [
   { key: "all",         emoji: "🌍" },
+  { key: "restaurant",  emoji: "🍽️" },
   { key: "beach",       emoji: "🏖️" },
   { key: "sightseeing", emoji: "🏛️" },
   { key: "walking",     emoji: "🚶" },
-  { key: "restaurant",  emoji: "🍽️" },
   { key: "sports",      emoji: "🏃" },
   { key: "explore",     emoji: "🔍" },
   { key: "other",       emoji: "✨" },
