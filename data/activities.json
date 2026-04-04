@@ -1,0 +1,1959 @@
+[
+  {
+    "id": "chipiona",
+    "name": "Chipiona",
+    "name_en": "Chipiona",
+    "name_is": "Chipiona",
+    "name_es": "Chipiona",
+    "category": "beach",
+    "description_es": "Una ciudad costera en el sur de España perfecta para disfrutar de hermosos atardeceres. Es ideal para caminar por la playa de noche, escuchando las olas romper en la arena. Un lugar romántico para parejas que buscan experiencias junto al mar.",
+    "description_en": "A coastal town in southern Spain perfect for enjoying beautiful sunsets. It's ideal for nighttime beach walks, listening to the waves crash on the sand. A romantic location for couples seeking seaside experiences.",
+    "description_is": "Strandbær í suðurhluta Spánar sem er fullkominn til að njóta fallegra sólarlauga. Þetta er tilvalinn staður fyrir næturgang meðfram ströndinni og að hlusta á bylgjurnar brjótast á sandinum. Rómantískur staður fyrir pör sem leita að sjávarútsýni.",
+    "tags": [
+      "beach",
+      "costa de la luz",
+      "quiet",
+      "natural",
+      "sunset",
+      "romantic",
+      "nighttime walks",
+      "ocean"
+    ],
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona",
+      "https://www.reddit.com/r/travel/search?q=Chipiona"
+    ]
+  },
+  {
+    "id": "isla-cristina",
+    "name": "Isla Cristina",
+    "name_en": "Isla Cristina",
+    "name_is": "Isla Cristina",
+    "name_es": "Isla Cristina",
+    "category": "beach",
+    "description_es": "Pueblo pesquero y destino de playa en Huelva, cerca de la frontera portuguesa. Conocido por sus marismas, puerto pesquero tradicional y playas naturales.",
+    "description_en": "Fishing village and beach destination in Huelva, near the Portuguese border. Known for its marshlands, traditional fishing port and natural beaches.",
+    "description_is": "Sjávarþorp og strandáfangastaður í Huelva, nálægt portúgölsku landamærunum. Þekktur fyrir mýrlendi, hefðbundna fiskihöfn og náttúrulegar strendur.",
+    "tags": [
+      "fishing village",
+      "beach",
+      "marshlands",
+      "traditional",
+      "portugal border"
+    ],
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
+    ]
+  },
+  {
+    "id": "playa-cruz-del-mar",
+    "name": "Playa Cruz del Mar",
+    "name_en": "Cruz del Mar Beach",
+    "name_is": "Cruz del Mar strönd",
+    "name_es": "Playa Cruz del Mar",
+    "category": "beach",
+    "description_es": "Primera zona del litoral entre el Puerto Pesquero-Deportivo y el Castillo. Playa de arena fina y dorada, bien equipada y rodeada por un hermoso paseo marítimo. En ella se encuentra uno de los nueve corrales de pesca que aún se conservan en Chipiona. Longitud: 1.500 metros.",
+    "description_en": "The first coastal area between the Fishing-Sports Port and the Castle. Fine golden sandy beach, well equipped and surrounded by a beautiful promenade. It contains one of the nine tidal fishing traps still preserved in Chipiona. Length: 1,500 metres.",
+    "description_is": "Fyrsta strandsvæðið á milli fiskimarkaðarins og kastalans. Fínkornóttur gullinn sandur, vel búinn og umlukinn fallegri promenáðu. Þar er ein af níu sjávarfallsgildrunum sem enn eru varðveittar í Chipiona. Lengd: 1.500 metrar.",
+    "tags": [
+      "beach",
+      "promenade",
+      "family",
+      "accessible",
+      "fishing traps"
+    ],
+    "address": "Playa Cruz del Mar, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "playa-de-bolonia",
+    "name": "Playa de Bolonia",
+    "name_en": "Bolonia Beach",
+    "name_is": "Bolonia strönd",
+    "name_es": "Playa de Bolonia",
+    "category": "beach",
+    "description_es": "Una hermosa playa natural ubicada cerca de las ruinas romanas de Baelo Claudia. Es conocida por su arena blanca y aguas cristalinas, sin desarrollo hotelero masivo.",
+    "description_en": "A beautiful natural beach located near the Roman ruins of Baelo Claudia. It's known for its white sand and crystal-clear waters, without massive hotel development.",
+    "description_is": "Falleg náttúruleg strönd staðsett nálægt rómversku rústunum í Baelo Claudia. Hún er þekkt fyrir hvítan sand og tærar vötn, án stórrar hóteluppbyggingar.",
+    "tags": [
+      "beach",
+      "natural",
+      "roman ruins",
+      "costa de la luz"
+    ],
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
+    ]
+  },
+  {
+    "id": "playa-de-regla",
+    "name": "Playa de Regla",
+    "name_en": "Regla Beach",
+    "name_is": "Regla strönd",
+    "name_es": "Playa de Regla",
+    "category": "beach",
+    "description_es": "Playa enmarcada entre el Faro y la Playa de Camarón. Sus arenas doradas y aguas azules, templadas y tranquilas la hacen una de las playas más importantes de Andalucía. Es la playa preferida por las familias por la seguridad de sus aguas y la cantidad de servicios. Longitud: 1.360 metros.",
+    "description_en": "Beach situated between the Lighthouse and Camarón Beach. Its golden sand and blue, warm, calm waters make it one of the most important beaches in Andalusia. It is the most popular family beach due to safe waters and plentiful services. Length: 1,360 metres.",
+    "description_is": "Strönd staðsett á milli vitans og Camarón strandarinnar. Gullinn sandur og blátt, hlýtt og rólegt vatn gera hana að einni mikilvægustu strönd Andalúsíu. Hún er uppáhaldsströndin hjá fjölskyldum vegna öruggs vatns og margvíslegrar þjónustu. Lengd: 1.360 metrar.",
+    "tags": [
+      "beach",
+      "family",
+      "swimming",
+      "blue flag",
+      "accessible",
+      "safe"
+    ],
+    "address": "Playa de Regla, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "playa-la-ballena",
+    "name": "Playa La Ballena",
+    "name_en": "La Ballena Beach",
+    "name_is": "La Ballena strönd",
+    "name_es": "Playa La Ballena",
+    "category": "beach",
+    "description_es": "Playa situada más al sur de la localidad, entre la Playa de Camarón y Rota. Es una playa rompiente con el fondo arenoso. Junto a la Playa de Camarón-La Laguna, conserva un cordón de dunas embrionarias. Longitud: 1.870 metros.",
+    "description_en": "Beach located furthest south of the town, between Camarón Beach and Rota. It is a surf beach with a sandy bottom. Along with Camarón-La Laguna Beach, it preserves a band of embryonic dunes. Length: 1,870 metres.",
+    "description_is": "Strönd staðsett syðst í bænum, á milli Camarón strandar og Rota. Þetta er brimströnd með sandbotn. Ásamt Camarón-La Laguna strönd varðveitir hún svæði með fósturmyndamöl. Lengd: 1.870 metrar.",
+    "tags": [
+      "beach",
+      "dunes",
+      "nature",
+      "surf"
+    ],
+    "address": "Playa La Ballena, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "punta-umbria",
+    "name": "Punta Umbría",
+    "name_en": "Punta Umbria",
+    "name_is": "Punta Umbría",
+    "name_es": "Punta Umbría",
+    "category": "beach",
+    "description_es": "Localidad costera en la provincia de Huelva conocida por sus extensas playas de arena fina. Es un destino popular para quienes buscan playas menos masificadas en la Costa de la Luz.",
+    "description_en": "Coastal town in Huelva province known for its extensive fine sand beaches. It's a popular destination for those seeking less crowded beaches on the Costa de la Luz.",
+    "description_is": "Strandbær í Huelva héraði þekktur fyrir víðfeðmar strendur með fínum sandi. Það er vinsæll áfangastaður fyrir þá sem leita að minna fjölmennum ströndum á Costa de la Luz.",
+    "tags": [
+      "beach",
+      "coastal town",
+      "costa de la luz",
+      "fine sand"
+    ],
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
+    ]
+  },
+  {
+    "id": "baelo-claudia",
+    "name": "Baelo Claudia",
+    "name_en": "Baelo Claudia",
+    "name_is": "Baelo Claudia",
+    "name_es": "Baelo Claudia",
+    "category": "sightseeing",
+    "description_es": "Yacimiento arqueológico romano ubicado cerca de la playa de Bolonia. Estas ruinas bien conservadas muestran los restos de una antigua ciudad romana con teatro, basílica y fábricas de salazón.",
+    "description_en": "Roman archaeological site located near Bolonia beach. These well-preserved ruins show the remains of an ancient Roman city with theater, basilica and fish-salting factories.",
+    "description_is": "Rómversk fornleifasvæði staðsett nálægt Bolonia strönd. Þessar vel varðveittu rústir sýna leifar fornrar rómverskrar borgar með leikhúsi, basilíku og fiskasöltunarverskstæðum.",
+    "tags": [
+      "roman ruins",
+      "archaeology",
+      "historical site",
+      "museum"
+    ],
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
+    ]
+  },
+  {
+    "id": "bolonia-baelo-claudia",
+    "name": "Bolonia (Baelo Claudia)",
+    "name_en": "Bolonia (Baelo Claudia)",
+    "name_is": "Bolonia (Baelo Claudia)",
+    "name_es": "Bolonia (Baelo Claudia)",
+    "category": "sightseeing",
+    "description_es": "Playa favorita del viajero que combina hermosas costas con importantes ruinas romanas. El sitio arqueológico de Baelo Claudia ofrece una experiencia única de historia antigua junto al mar.",
+    "description_en": "Traveler's favorite beach that combines beautiful coastline with important Roman ruins. The archaeological site of Baelo Claudia offers a unique ancient history experience by the sea.",
+    "description_is": "Uppáhalds strönd ferðalangsins sem sameinar fallega strandlínu og mikilvægar rómverskar rústir. Fornleifasvæðið Baelo Claudia býður upp á einstaka upplifun af fornri sögu við sjávarsíðuna.",
+    "tags": [
+      "roman ruins",
+      "archaeology",
+      "beach",
+      "historical site"
+    ],
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona"
+    ]
+  },
+  {
+    "id": "c-i-rocio-jurado",
+    "name": "C.I. Rocío Jurado",
+    "name_en": "Rocío Jurado Interpretation Centre",
+    "name_is": "Túlkunarmiðstöð Rocío Jurado",
+    "name_es": "Centro de Interpretación Rocío Jurado",
+    "category": "sightseeing",
+    "description_es": "Centro expositivo organizado en torno a varios espacios temáticos que permiten acercarse a la vida y obra de Rocío Jurado. A través de las distintas secciones se puede conocer su historia como hija de un humilde zapatero que se convirtió en estrella.",
+    "description_en": "An exhibition centre organised around various thematic spaces that allow visitors to explore the life and work of Rocío Jurado. Through different sections, visitors can learn how she grew from a humble shoemaker's daughter to a star.",
+    "description_is": "Sýningarmiðstöð skipulögð í kringum ýmis þemasvæði sem gera gestum kleift að kynna sér líf og verk Rocío Jurado. Í gegnum mismunandi hluta er hægt að fræðast um hvernig hún varð stjarna úr auðmýktum upphafi.",
+    "tags": [
+      "culture",
+      "celebrity",
+      "exhibition",
+      "history"
+    ],
+    "address": "Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": null,
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "centro-de-interpretacion-cadiz-y-el-nuevo-mundo",
+    "name": "Centro de Interpretación Cádiz y el Nuevo Mundo",
+    "name_en": "Interpretation Centre Cádiz and the New World",
+    "name_is": "Túlkunarmiðstöð Cádiz og Nýi heimurinn",
+    "name_es": "Centro de Interpretación Cádiz y el Nuevo Mundo",
+    "category": "sightseeing",
+    "description_es": "Centro dedicado a la relación de la provincia de Cádiz con el Descubrimiento y Colonización de América. Las exposiciones del interior están abiertas de lunes a sábados de 10:30 a 13:30. Festivos: cerrado.",
+    "description_en": "A centre dedicated to the relationship between the province of Cádiz and the Discovery and Colonisation of America. Interior exhibitions are open Monday to Saturday 10:30–13:30. Closed on public holidays.",
+    "description_is": "Miðstöð tileinkuð tengslum héraðsins Cádiz við uppgötvun og landnám Ameríku. Sýningar inni eru opnar mánudag til laugardags 10:30–13:30. Lokað á frídögum.",
+    "tags": [
+      "history",
+      "culture",
+      "exhibition",
+      "free",
+      "family"
+    ],
+    "address": "C/ Castillo, 7, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "ermita-del-cristo-de-las-misericordias",
+    "name": "Ermita del Cristo de las Misericordias",
+    "name_en": "Hermitage of Christ of Mercy",
+    "name_is": "Kapella Krists miskunnar",
+    "name_es": "Ermita del Cristo de las Misericordias",
+    "category": "sightseeing",
+    "description_es": "En su interior se venera al Cristo de las Misericordias, al que se le atribuye el milagro de salvar a la localidad de la inundación provocada por el Terremoto de Lisboa en 1755. Horarios de apertura: lunes a viernes 19:00–20:30, sábados, domingos y festivos 11:00–14:00 y 19:00–20:30.",
+    "description_en": "Inside, the Christ of Mercies is venerated, credited with the miracle of saving the town from flooding caused by the 1755 Lisbon Earthquake. Opening hours: Monday to Friday 19:00–20:30; Saturday, Sunday, and holidays 11:00–14:00 and 19:00–20:30.",
+    "description_is": "Inni er dýrkað Kristur miskunnar, sem er eignaður kraftaverk þess að bjarga bænum frá flóðum af völdum Lissabonjarðskjálftans 1755. Opnunartímar: mánudag til föstudags 19:00–20:30; laugardag, sunnudag og frídaga 11:00–14:00 og 19:00–20:30.",
+    "tags": [
+      "religion",
+      "history",
+      "miracle",
+      "free"
+    ],
+    "address": "Plaza Juan Carlos I, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "evening",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "faro-de-chipiona",
+    "name": "Faro de Chipiona",
+    "name_en": "Lighthouse of Chipiona",
+    "name_is": "Viti Chipiona",
+    "name_es": "Faro de Chipiona",
+    "category": "sightseeing",
+    "description_es": "El faro más alto de España con 69 metros y 322 escalones, construido entre 1863 y 1867 por el ingeniero Jaime Font. Las visitas son jueves y sábados de febrero y marzo, a las 11:00, 12:00 y 13:00. Precio: 5€ por persona, niños menores de 7 años gratis. Imprescindible inscripción previa.",
+    "description_en": "The Chipiona Lighthouse is one of the tallest lighthouses in Spain and a major tourist attraction. It offers panoramic views of the Atlantic Ocean with Europe to the left and America to the right. It's a historic and architectural landmark of great value on the Cádiz coast.",
+    "description_is": "Vitinn í Chipiona er einn af hæstu vitum á Spáni og mikil ferðamannadrátttök. Hann býður upp á víðáttumikið útsýni yfir Atlantshafið með Evrópu vinstra megin og Ameríku hægra megin. Þetta er sögulegur og byggingarlistlegur kennileiti af miklu gildi við strönd Cádiz.",
+    "tags": [
+      "landmark",
+      "history",
+      "views",
+      "family",
+      "booking required",
+      "lighthouse",
+      "historic",
+      "Atlantic Ocean",
+      "beach",
+      "costa de la luz",
+      "relaxed",
+      "sunset",
+      "romantic",
+      "walking",
+      "nighttime"
+    ],
+    "address": "Avenida del Faro, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf",
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/spain/search?q=Chipiona",
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia",
+      "https://www.reddit.com/r/travel/search?q=Chipiona%20Spain%20things%20to%20do"
+    ]
+  },
+  {
+    "id": "humilladero",
+    "name": "Humilladero",
+    "name_en": "Humilladero Shrine",
+    "name_is": "Humilladero helgidómurinn",
+    "name_es": "Humilladero",
+    "category": "sightseeing",
+    "description_es": "Templete anexo al Santuario de la Virgen de Regla, construido en 1663. Lugar donde apareció la talla de la Virgen de Regla durante la ocupación musulmana. Ha sufrido varias restauraciones, la última en 2022.",
+    "description_en": "A small shrine annex to the Sanctuary, built in 1663. It marks the spot where the statue of the Virgin of Regla is said to have appeared during the Muslim occupation. It has undergone several restorations, the most recent in 2022.",
+    "description_is": "Lítill helgidómur við hlið Helgidómsins, byggður 1663. Þetta er staðurinn þar sem myndin af Máríu Reglu er sögð hafa birst á tímum múslimska hernámsins. Hann hefur gengist undir nokkrar endurbætur, síðast árið 2022.",
+    "tags": [
+      "history",
+      "religion",
+      "free",
+      "walking"
+    ],
+    "address": "Paseo Costa de la Luz, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "mausoleo-de-rocio-jurado",
+    "name": "Mausoleo de Rocío Jurado",
+    "name_en": "Mausoleum of Rocío Jurado",
+    "name_is": "Minnisvarði Rocío Jurado",
+    "name_es": "Mausoleo de Rocío Jurado",
+    "category": "sightseeing",
+    "description_es": "Mausoleo dedicado a la famosa cantante Rocío Jurado, ubicado en el Cementerio Municipal San José. Horario: lunes a sábados 9:00–13:00 y 16:00–18:00, domingos y festivos 9:00–13:00.",
+    "description_en": "A mausoleum dedicated to the famous singer Rocío Jurado, located at the San José Municipal Cemetery. Hours: Monday to Saturday 9:00–13:00 and 16:00–18:00; Sunday and holidays 9:00–13:00.",
+    "description_is": "Minnisvarði tileinkuð frægri söngkonunni Rocío Jurado, staðsettur á San José borgarlegar kirkjugarðinum. Opnunartímar: mánudag til laugardags 9:00–13:00 og 16:00–18:00; sunnudag og frídaga 9:00–13:00.",
+    "tags": [
+      "history",
+      "celebrity",
+      "culture"
+    ],
+    "address": "Cementerio Municipal San José, C/ San José, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "mirador-cruz-del-mar",
+    "name": "Mirador Cruz del Mar",
+    "name_en": "Cruz del Mar Viewpoint",
+    "name_is": "Útsýnispallur Cruz del Mar",
+    "name_es": "Mirador Cruz del Mar",
+    "category": "sightseeing",
+    "description_es": "Monumento conmemorativo al terremoto de Lisboa de 1755, ubicado en el Paseo de la Cruz del Mar. Un lugar ideal para disfrutar de las vistas al mar.",
+    "description_en": "A commemorative monument to the 1755 Lisbon earthquake, located on the Paseo de la Cruz del Mar. An ideal spot to enjoy sea views.",
+    "description_is": "Minnisvarði fyrir Lissabonjarðskjálftann 1755, staðsettur á Paseo de la Cruz del Mar. Frábær staður til að njóta sjóarútsýnis.",
+    "tags": [
+      "views",
+      "history",
+      "free",
+      "sunset",
+      "walking"
+    ],
+    "address": "Paseo de la Cruz del Mar, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "monumento-a-rocio-jurado",
+    "name": "Monumento a Rocío Jurado",
+    "name_en": "Monument to Rocío Jurado",
+    "name_is": "Minnismerki Rocío Jurado",
+    "name_es": "Monumento a Rocío Jurado",
+    "category": "sightseeing",
+    "description_es": "Escultura dedicada a la cantante Rocío Jurado frente al Puerto Pesquero y Deportivo. Obra de Juan de Ávalos, inaugurada en 1994.",
+    "description_en": "A sculpture dedicated to singer Rocío Jurado, located in front of the Fishing and Sports Port. Created by Juan de Ávalos and inaugurated in 1994.",
+    "description_is": "Skúlptúr tileinkuður söngkonunni Rocío Jurado, staðsettur fyrir framan fiskimarkaðinn og íþróttahöfnina. Gerður af Juan de Ávalos og vígstur 1994.",
+    "tags": [
+      "landmark",
+      "celebrity",
+      "free",
+      "walking"
+    ],
+    "address": "Frente al Puerto Pesquero y Deportivo, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "museo-regla-y-sus-misioneros",
+    "name": "Museo Regla y sus Misioneros",
+    "name_en": "Museum Regla and its Missionaries",
+    "name_is": "Safn Regla og trúboðar hennar",
+    "name_es": "Museo Regla y sus Misioneros",
+    "category": "sightseeing",
+    "description_es": "Abierto en mayo: sábados 7, 14 y 21. Precio: 5€, adquiriendo previamente la entrada en la tienda de recuerdos del Santuario. La visita incluye el claustro alto y bajo, la sala litúrgica, la sala de mantos y la escalera de la iglesia.",
+    "description_en": "Open in May on Saturdays 7, 14, and 21. Price: €5, tickets purchased in advance at the Sanctuary gift shop. The visit includes the upper and lower cloister, the liturgical hall, the mantle room, and the church staircase.",
+    "description_is": "Opið í maí á laugardögum 7., 14. og 21. Verð: 5€, miðar keyptir fyrirfram í gjafabúð Helgidómsins. Heimsóknin felur í sér efri og neðri klaustur, helgiathafnasalinn, möntustofu og kirkjustiga.",
+    "tags": [
+      "culture",
+      "history",
+      "religion",
+      "booking required"
+    ],
+    "address": "Paseo Costa de la Luz, 91, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "parroquia-de-nuestra-senora-de-la-o",
+    "name": "Parroquia de Nuestra Señora de la O",
+    "name_en": "Parish Church of Our Lady of the O",
+    "name_is": "Sóknarkirkja Drottningar O",
+    "name_es": "Parroquia de Nuestra Señora de la O",
+    "category": "sightseeing",
+    "description_es": "Iglesia erigida en 1579 bajo el estilo gótico, modificada en el siglo XVIII bajo la influencia del Barroco y el Neoclasicismo. Horario de misas: lunes a sábados 20:30, domingos y festivos 9:00, 11:00, 12:30 y 20:30.",
+    "description_en": "A church erected in 1579 in the Gothic style, later modified in the 18th century under Baroque and Neoclassical influence. Mass schedule: Monday to Saturday 20:30; Sundays and holidays 9:00, 11:00, 12:30, and 20:30.",
+    "description_is": "Kirkja reist árið 1579 í gotneska stíl, síðar breytt á 18. öld undir áhrifum barókks og nýklassísisma. Messuáætlun: mánudag til laugardags 20:30; sunnudagar og frídagar 9:00, 11:00, 12:30 og 20:30.",
+    "tags": [
+      "religion",
+      "history",
+      "architecture",
+      "free"
+    ],
+    "address": "Plaza Juan Carlos I, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "sala-de-exposiciones-el-castillo",
+    "name": "Sala de Exposiciones El Castillo",
+    "name_en": "El Castillo Exhibition Hall",
+    "name_is": "El Castillo sýningarsalur",
+    "name_es": "Sala de Exposiciones El Castillo",
+    "category": "sightseeing",
+    "description_es": "Sala de exposiciones ubicada en el Castillo de Chipiona, gestionada por la Delegación de Cultura. Dirección: C/ Castillo, 7. Teléfono: 662 338 057.",
+    "description_en": "Exhibition hall located in the Chipiona Castle, managed by the Department of Culture. Address: C/ Castillo, 7. Phone: 662 338 057.",
+    "description_is": "Sýningarsalur staðsettur í Chipiona-kastalanum, rekinn af menningardeildinni. Heimilisfang: C/ Castillo, 7. Sími: 662 338 057.",
+    "tags": [
+      "art",
+      "culture",
+      "exhibition"
+    ],
+    "address": "C/ Castillo, 7, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "santuario-de-nuestra-senora-de-regla",
+    "name": "Santuario de Nuestra Señora de Regla",
+    "name_en": "Sanctuary of Our Lady of Regla",
+    "name_is": "Helgidómur Drottningu Reglu",
+    "name_es": "Santuario de Nuestra Señora de Regla",
+    "category": "sightseeing",
+    "description_es": "Antigua fortaleza de los Ponce de León y Monasterio de los agustinos, de estilo Neogótico, actualmente atendido por la comunidad franciscana. Horario de visitas: 8:00 a 12:00 y de 17:00 a 20:30. Visitas al Camarín de la Virgen: lunes a sábado de 9:30 a 12:00 y 17:00 a 18:30.",
+    "description_en": "An ancient fortress of the Ponce de León family and Augustinian monastery, now in Neo-Gothic style and run by the Franciscan community. Open for visits 8:00–12:00 and 17:00–20:30. The Virgin's chamber can be visited Monday to Saturday 9:30–12:00 and 17:00–18:30.",
+    "description_is": "Forn vígi Ponce de León fjölskyldunnar og Ágústínusarklaustur, nú í nýgótískum stíl og rekið af Fransiskanasöfnuðinum. Opið til heimsóknar 8:00–12:00 og 17:00–20:30. Hægt er að heimsækja herbergi Máríu mánudag til laugardags 9:30–12:00 og 17:00–18:30.",
+    "tags": [
+      "free",
+      "family",
+      "history",
+      "religion",
+      "architecture"
+    ],
+    "address": "Paseo Costa de la Luz, 91, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "automotos-ramar-alquiler-de-bicicletas-y-motos",
+    "name": "Automotos Ramar - Alquiler de Bicicletas y Motos",
+    "name_en": "Automotos Ramar - Bicycle and Motorbike Rental",
+    "name_is": "Automotos Ramar - Hjóla- og mótorhjólaleiga",
+    "name_es": "Automotos Ramar - Alquiler de Bicicletas y Motos",
+    "category": "sports",
+    "description_es": "Alquiler de bicicletas de montaña, de paseo, para niños, con posibilidad de cesta y porta bebés. Motos: Scooter 125cc sin límite de km, para mayores de 25 años con 3 años de carnet. Horario: lunes a viernes 9:00–13:30 y 17:00–21:00, sábados 9:00–13:30. Teléfono: 956 37 06 33.",
+    "description_en": "Bicycle rental: mountain bikes, city bikes, children's bikes, with basket and baby carrier options. Motorbikes: 125cc scooter, unlimited km, for persons over 25 with 3 years' licence. Hours: Mon–Fri 9:00–13:30 and 17:00–21:00, Sat 9:00–13:30. Phone: 956 37 06 33.",
+    "description_is": "Hjólaleiga: fjallhjól, borgarhjól, barnahjól, með körfu og barnasætisvalkostum. Mótorhjól: 125cc scooter, ótakmörkuð km, fyrir einstaklinga yfir 25 ára með 3 ára ökuréttindi. Opnunartímar: mán–fös 9:00–13:30 og 17:00–21:00, lau 9:00–13:30. Sími: 956 37 06 33.",
+    "tags": [
+      "rental",
+      "cycling",
+      "family",
+      "outdoor"
+    ],
+    "address": "Avda. de Rota, 137, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": true,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "bicicletas-jurado-costa-ballena-rota",
+    "name": "Bicicletas Jurado (Costa Ballena-Rota)",
+    "name_en": "Jurado Bicycles (Costa Ballena-Rota)",
+    "name_is": "Jurado hjól (Costa Ballena-Rota)",
+    "name_es": "Bicicletas Jurado (Costa Ballena-Rota)",
+    "category": "sports",
+    "description_es": "Alquiler de bicicletas de montaña, de paseo, para niños, con cesta, triciclos, porta bebés y carritos. Bicicletas a domicilio sin coste adicional. Teléfono: 608 194 947.",
+    "description_en": "Rental of mountain bikes, city bikes, children's bikes, with basket, tricycles, baby carriers, and strollers. Home delivery at no extra cost. Phone: 608 194 947.",
+    "description_is": "Leiga á fjallhjólum, borgarhjólum, barnahjólum, með körfu, þríhjólum, barnabílastæðum og hjólakerlum. Heimsending án aukakostnaðar. Sími: 608 194 947.",
+    "tags": [
+      "rental",
+      "cycling",
+      "family",
+      "outdoor",
+      "beach"
+    ],
+    "address": "C.C. El Lago, Costa Ballena-Rota",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": true,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "bicicletas-valdes-chipiona-costa-ballena-rota",
+    "name": "Bicicletas Valdés (Chipiona / Costa Ballena-Rota)",
+    "name_en": "Valdés Bicycles (Chipiona / Costa Ballena-Rota)",
+    "name_is": "Valdés hjól (Chipiona / Costa Ballena-Rota)",
+    "name_es": "Bicicletas Valdés (Chipiona / Costa Ballena-Rota)",
+    "category": "sports",
+    "description_es": "Alquiler de bicicletas por días y semanas con ofertas especiales para grupos y rutas. Bicicletas de paseo, para niños, con cesta, triciclos, candados, cascos y porta bebés. Teléfonos: 699 549 234 / 645 479 027.",
+    "description_en": "Bicycle rental by day and week with special offers for groups and routes. City bikes, children's bikes, with basket, tricycles, locks, helmets, and baby carriers. Phone: 699 549 234 / 645 479 027.",
+    "description_is": "Hjólaleiga á daga og vikur með sérsérboðum fyrir hópa og ferðir. Borgarhjól, barnahjól, með körfu, þríhjól, læsingar, hjálmar og barnabílastæði. Sími: 699 549 234 / 645 479 027.",
+    "tags": [
+      "rental",
+      "cycling",
+      "family",
+      "outdoor",
+      "group"
+    ],
+    "address": "C/ Miguel de Cervantes, 68, Chipiona / C.C. Los Olivos, Costa Ballena-Rota",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": true,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "club-hipico-chipiona",
+    "name": "Club Hípico Chipiona",
+    "name_en": "Chipiona Horse Riding Club",
+    "name_is": "Chipiona hestaklúbbur",
+    "name_es": "Club Hípico Chipiona",
+    "category": "sports",
+    "description_es": "Centro de Alto Rendimiento de Hípica Alta Escuela y doma clásica. Teléfono: 666 456 028.",
+    "description_en": "A High Performance Centre for High School Equestrian arts and classical dressage. Phone: 666 456 028.",
+    "description_is": "Háþróaðar hestaíþróttir og klassískt dressúrmiðstöð. Sími: 666 456 028.",
+    "tags": [
+      "horses",
+      "sports",
+      "dressage",
+      "professional"
+    ],
+    "address": "Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "club-hipico-la-alegria",
+    "name": "Club Hípico La Alegría",
+    "name_en": "La Alegría Horse Riding Club",
+    "name_is": "La Alegría hestaklúbbur",
+    "name_es": "Club Hípico La Alegría",
+    "category": "sports",
+    "description_es": "Ubicado en el Pinar de la Villa. Ofrece doma, pupilaje, clases de equitación, paseos a caballo y bono 10 clases/paseos. Teléfono: 660 098 738.",
+    "description_en": "Located in the Pinar de la Villa. Offers dressage, livery, riding lessons, horse rides, and a 10-class/ride package. Phone: 660 098 738.",
+    "description_is": "Staðsett í Pinar de la Villa. Býður upp á dressúr, hrostagæslu, reiðkennslu, hestareiðar og 10 tíma/ferðapakka. Sími: 660 098 738.",
+    "tags": [
+      "horses",
+      "sports",
+      "family",
+      "outdoor"
+    ],
+    "address": "Pinar de la Villa, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "club-hipico-la-garrocha",
+    "name": "Club Hípico La Garrocha",
+    "name_en": "La Garrocha Horse Riding Club",
+    "name_is": "La Garrocha hestaklúbbur",
+    "name_es": "Club Hípico La Garrocha",
+    "category": "sports",
+    "description_es": "Club hípico ubicado en el Pinar de la Villa. Ofrece iniciación a la equitación y doma. Teléfono: 658 855 840.",
+    "description_en": "Horse riding club located in the Pinar de la Villa. Offers introduction to horse riding and dressage. Phone: 658 855 840.",
+    "description_is": "Hestaklúbbur staðsettur í Pinar de la Villa. Býður upp á kynningu á hestaíþróttum og dressúr. Sími: 658 855 840.",
+    "tags": [
+      "horses",
+      "sports",
+      "family",
+      "outdoor"
+    ],
+    "address": "Pinar de la Villa, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "club-hipico-los-majadales",
+    "name": "Club Hípico Los Majadales",
+    "name_en": "Los Majadales Horse Riding Club",
+    "name_is": "Los Majadales hestaklúbbur",
+    "name_es": "Club Hípico Los Majadales",
+    "category": "sports",
+    "description_es": "Ubicado en el Pinar de la Villa junto a la Ermita Regla del Pinar. Ofrece clases de equitación y doma, rutas a caballo, rutas nocturnas y rutas a la playa a partir del 1 de octubre. Teléfono: 677 506 944.",
+    "description_en": "Located in the Pinar de la Villa near the Ermita Regla del Pinar. Offers riding and dressage classes, horse trails, night rides, and beach rides from 1 October. Phone: 677 506 944.",
+    "description_is": "Staðsett í Pinar de la Villa nálægt Ermita Regla del Pinar. Býður upp á reiðkennslu og dressúrkennslu, hestaferðir, næturferðir og strandarferðir frá 1. október. Sími: 677 506 944.",
+    "tags": [
+      "horses",
+      "sports",
+      "family",
+      "outdoor",
+      "beach",
+      "night"
+    ],
+    "address": "Pinar de la Villa, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "escuela-municipal-de-vela",
+    "name": "Escuela Municipal de Vela",
+    "name_en": "Municipal Sailing School",
+    "name_is": "Sveitarfélagssiglingaskóli",
+    "name_es": "Escuela Municipal de Vela",
+    "category": "sports",
+    "description_es": "Escuela de vela ubicada en el Puerto Deportivo. Ofrece solo cursos de vela personalizados. Horario de Oficina: miércoles y sábados 10:30–13:30. Reservas: 722 591 958.",
+    "description_en": "Sailing school located at the Sports Port. Offers personalised sailing courses only. Office hours: Wednesday and Saturday 10:30–13:30. Reservations: 722 591 958.",
+    "description_is": "Siglingaskóli staðsettur í íþróttahöfninni. Býður einungis upp á sérsniðin siglingaskeið. Skrifstofutímar: miðvikudag og laugardag 10:30–13:30. Bókanir: 722 591 958.",
+    "tags": [
+      "sailing",
+      "sports",
+      "water sports",
+      "courses"
+    ],
+    "address": "Puerto Deportivo s/n, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "polideportivo-municipal",
+    "name": "Polideportivo Municipal",
+    "name_en": "Municipal Sports Centre",
+    "name_is": "Sveitarfélagsíþróttamiðstöð",
+    "name_es": "Polideportivo Municipal",
+    "category": "sports",
+    "description_es": "Centro deportivo municipal ubicado en Avda. de la Constitución / Avda. del Universo. Más información: 956 92 90 67 / 645 294 587.",
+    "description_en": "Municipal sports centre located at Avda. de la Constitución / Avda. del Universo. More info: 956 92 90 67 / 645 294 587.",
+    "description_is": "Sveitarfélagsíþróttamiðstöð staðsett á Avda. de la Constitución / Avda. del Universo. Nánari upplýsingar: 956 92 90 67 / 645 294 587.",
+    "tags": [
+      "sports",
+      "fitness",
+      "family"
+    ],
+    "address": "Avda. de la Constitución / Avda. del Universo, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "triman-nautic",
+    "name": "Triman Nautic",
+    "name_en": "Triman Nautic",
+    "name_is": "Triman Nautic",
+    "name_es": "Triman Nautic",
+    "category": "sports",
+    "description_es": "Empresa ubicada en el Puerto Deportivo. Ofrece excursiones en barco, pesca, alquiler de embarcaciones a motor y/o vela, alquiler de motos acuáticas, cursos de titulaciones náuticas. Más información: 616 577 891.",
+    "description_en": "Company based at the Sports Port. Offers boat trips, fishing, motor and/or sailing boat rentals, jet ski rentals, and nautical qualification courses. More info: 616 577 891.",
+    "description_is": "Fyrirtæki með aðsetur í íþróttahöfninni. Býður upp á bátsferðir, fiskveiðar, leigu á mótor- og/eða seglbátum, vatnahjólaleigu og siglingaprófskeið. Nánari upplýsingar: 616 577 891.",
+    "tags": [
+      "water sports",
+      "boat rental",
+      "fishing",
+      "sailing",
+      "jet ski"
+    ],
+    "address": "Puerto Deportivo - Playa Camarón - Playa de las Tres Piedras, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": true,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "agencia-de-viajes-donana-visita-en-todoterreno",
+    "name": "Agencia de Viajes Doñana - Visita en todoterreno",
+    "name_en": "Doñana Travel Agency - 4x4 Visit",
+    "name_is": "Doñana ferðaskrifstofa - Jeppaferð",
+    "name_es": "Agencia de Viajes Doñana - Visita en todoterreno",
+    "category": "explore",
+    "description_es": "Visita en todoterreno al Espacio Natural de Doñana con recorrido de 70 km. Duración: 3h30 aproximadamente. Precio: 40€ por persona (niños hasta 4 años gratis). Imprescindible reserva previa.",
+    "description_en": "4x4 visit to the Doñana Natural Space with a 70km route. Duration: approximately 3.5 hours. Price: €40 per person (children up to 4 years free). Advance booking essential.",
+    "description_is": "Jeppaferð til Doñana náttúrusvæðisins með 70 km leið. Tímalengd: um 3,5 klst. Verð: 40€ á mann (börn upp að 4 ára ókeypis). Fyrirfram bókun nauðsynleg.",
+    "tags": [
+      "nature",
+      "4x4",
+      "wildlife",
+      "national park",
+      "guided",
+      "adventure",
+      "booking required"
+    ],
+    "address": "C/ San Juan, 20, Sanlúcar de Barrameda",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "bodega-cesar-florido",
+    "name": "Bodega César Florido",
+    "name_en": "César Florido Winery",
+    "name_is": "César Florido vínbær",
+    "name_es": "Bodega César Florido",
+    "category": "explore",
+    "description_es": "Bodega ubicada en C/ Padre Lerchundi 35 y 37. Las visitas son mediante cita previa. Produce vinos típicos de la zona de Chipiona.",
+    "description_en": "Winery located at C/ Padre Lerchundi 35 and 37. Visits are by prior appointment. Produces typical wines of the Chipiona area.",
+    "description_is": "Vínbær staðsett á C/ Padre Lerchundi 35 og 37. Heimsóknir eru með fyrirfram bókun. Framleiðir dæmigerð vín á Chipiona-svæðinu.",
+    "tags": [
+      "wine",
+      "culture",
+      "tasting",
+      "booking required"
+    ],
+    "address": "C/ Padre Lerchundi 35 y 37, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "bodega-cooperativa-catolico-agricola",
+    "name": "Bodega Cooperativa Católico Agrícola",
+    "name_en": "Católico Agrícola Cooperative Winery",
+    "name_is": "Católico Agrícola samvinnuvínbær",
+    "name_es": "Bodega Cooperativa Católico Agrícola",
+    "category": "explore",
+    "description_es": "Bodega de elaboración en Ctra. Chipiona-Sanlúcar Km. 2 y bodega de crianza y envejecimiento en Avda. de Regla 8 y 10. Visitas mediante cita previa. Una de las bodegas más representativas de la región.",
+    "description_en": "Production winery on Ctra. Chipiona-Sanlúcar Km. 2 and ageing winery at Avda. de Regla 8 and 10. Visits by prior appointment. One of the most representative wineries in the region.",
+    "description_is": "Framleiðsluvínbær á Ctra. Chipiona-Sanlúcar km. 2 og þroskavínbær á Avda. de Regla 8 og 10. Heimsóknir með fyrirfram bókun. Eitt af fulltrúalegasta vínbærunum á svæðinu.",
+    "tags": [
+      "wine",
+      "culture",
+      "tasting",
+      "booking required",
+      "cooperative"
+    ],
+    "address": "Ctra. Chipiona-Sanlúcar, Km. 2 / Avda. de Regla 8 y 10, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "bodega-mellado-martin",
+    "name": "Bodega Mellado Martín",
+    "name_en": "Mellado Martín Winery",
+    "name_is": "Mellado Martín vínbær",
+    "name_es": "Bodega Mellado Martín",
+    "category": "explore",
+    "description_es": "Bodega ubicada en la Ctra. de Rota Km. 2, con despacho en Avda. de la Diputación, 23. Visitas mediante cita previa. Especializada en vinos de la zona.",
+    "description_en": "Winery located on Ctra. de Rota Km. 2, with an office at Avda. de la Diputación, 23. Visits by prior appointment. Specialises in local wines.",
+    "description_is": "Vínbær staðsett á Ctra. de Rota km. 2, með skrifstof á Avda. de la Diputación, 23. Heimsóknir með fyrirfram bókun. Sérhæfir sig í staðbundnum vínum.",
+    "tags": [
+      "wine",
+      "culture",
+      "tasting",
+      "booking required"
+    ],
+    "address": "Ctra. de Rota Km. 2 / Avda. de la Diputación, 23, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "centro-de-interpretacion-de-la-naturaleza-y-el-litoral-el-camaleon",
+    "name": "Centro de Interpretación de la Naturaleza y el Litoral El Camaleón",
+    "name_en": "Nature and Coastal Interpretation Centre El Camaleón",
+    "name_is": "Túlkunarmiðstöð náttúrunnar og strandarinnar El Camaleón",
+    "name_es": "Centro de Interpretación de la Naturaleza y el Litoral El Camaleón",
+    "category": "explore",
+    "description_es": "Centro de interpretación dedicado a la naturaleza y el litoral de Chipiona, ubicado cerca de los corrales de pesca de Camarón. Ideal para familias interesadas en el ecosistema costero.",
+    "description_en": "An interpretation centre dedicated to the nature and coastline of Chipiona, located near the Camarón tidal fishing traps. Ideal for families interested in the coastal ecosystem.",
+    "description_is": "Túlkunarmiðstöð tileinkuð náttúru og strandlínu Chipiona, staðsett nálægt sjávarfallsgildrunum við Camarón. Hentar vel fyrir fjölskyldur með áhuga á strandsvæðisvistkerfinu.",
+    "tags": [
+      "nature",
+      "family",
+      "educational",
+      "coastal"
+    ],
+    "address": "Playa de Camarón, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "corrales-de-pesca",
+    "name": "Corrales de Pesca",
+    "name_en": "Tidal Fishing Traps",
+    "name_is": "Sjávarfallsgildrar",
+    "name_es": "Corrales de Pesca",
+    "category": "explore",
+    "description_es": "Arte de pesca muy antigua, posiblemente de origen romano, formada por muros artificiales de piedra ostionera donde crecen ostiones, bígaros y otras especies. Cuando sube la marea los peces entran a alimentarse y quedan atrapados cuando baja. Se pueden observar a lo largo del litoral chipionero.",
+    "description_en": "A very ancient fishing technique, possibly of Roman origin, consisting of artificial walls of oyster stone. When the tide rises, fish enter to feed and become trapped as it falls. They can be observed along the Chipiona coastline.",
+    "description_is": "Mjög forn veiðitækni, mögulega af rómverskum uppruna, sem samanstendur af gerviveggjum úr ostrusteininum. Þegar flóðið kemur fara fiskarnir inn til að éta og verða fasir þegar fjaran byrjar. Hægt er að sjá þær meðfram strandlínu Chipiona.",
+    "tags": [
+      "history",
+      "nature",
+      "walking",
+      "free",
+      "family"
+    ],
+    "address": "Litoral de Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "espacio-natural-de-donana-itinerario-fluvial-sanlucar-guadalquivir-donana",
+    "name": "Espacio Natural de Doñana - Itinerario Fluvial Sanlúcar-Guadalquivir-Doñana",
+    "name_en": "Doñana Natural Space - River Itinerary Sanlúcar-Guadalquivir-Doñana",
+    "name_is": "Doñana náttúrusvæðið - Ánafar Sanlúcar-Guadalquivir-Doñana",
+    "name_es": "Espacio Natural de Doñana - Itinerario Fluvial Sanlúcar-Guadalquivir-Doñana",
+    "category": "explore",
+    "description_es": "Visita fluvial en el Buque Los Cristóbal con navegación por el Guadalquivir, parada a pie en Doñana y visita guiada a los llanos y chozas del Parque Nacional. Precios: Adultos 20€, mayores de 65 y estudiantes 15€, niños 5-12 años 10€. Duración: 2h30-3h.",
+    "description_en": "River tour on the Los Cristóbal vessel with navigation along the Guadalquivir, a walking stop in Doñana, and a guided visit to the plains and huts of the National Park. Prices: Adults €20, seniors 65+ and students €15, children 5-12 €10. Duration: 2.5–3 hours.",
+    "description_is": "Ánafar á Los Cristóbal skipinu með siglingu eftir Guadalquivir, göngustopp í Doñana og leiðsöguferð um flæður og hyttur þjóðgarðsins. Verð: Fullorðnir 20€, eldri borgarar 65+ og nemendur 15€, börn 5-12 ára 10€. Tímalengd: 2,5-3 klst.",
+    "tags": [
+      "nature",
+      "boat",
+      "wildlife",
+      "national park",
+      "guided",
+      "family"
+    ],
+    "address": "Sanlúcar de Barrameda (Bajo de Guía)",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "espacio-natural-de-donana-visita-en-barco-con-todo-terreno-donana-al-completo",
+    "name": "Espacio Natural de Doñana - Visita en barco con todo terreno Doñana al Completo",
+    "name_en": "Doñana Natural Space - Boat and 4x4 Tour Doñana Complete",
+    "name_is": "Doñana náttúrusvæðið - Báts- og jeppaferð Doñana",
+    "name_es": "Espacio Natural de Doñana - Visita en barco con todo terreno Doñana al Completo",
+    "category": "explore",
+    "description_es": "Inicio en la playa de Bajo de Guía en Sanlúcar, traslado a Doñana en barcaza y recorrido de 30 km en todoterreno por los diferentes ecosistemas del Parque Nacional. Precio: 40€ (mayores de 13 años), 35€ (5-12 años), menores de 4 años gratis. Duración: 2h30-3h.",
+    "description_en": "Starts at Bajo de Guía beach in Sanlúcar, transfer to Doñana by barge, and 30km 4x4 tour through the different ecosystems of the National Park. Price: €40 (13+ years), €35 (5–12 years), children under 4 free. Duration: 2.5–3 hours.",
+    "description_is": "Byrjar á Bajo de Guía strönd í Sanlúcar, flutningur til Doñana með prám og 30 km jeppaferð í gegnum mismunandi vistkerfi þjóðgarðsins. Verð: 40€ (13+ ára), 35€ (5-12 ára), börn undir 4 ára ókeypis. Tímalengd: 2,5-3 klst.",
+    "tags": [
+      "nature",
+      "4x4",
+      "wildlife",
+      "national park",
+      "guided",
+      "family",
+      "adventure"
+    ],
+    "address": "Sanlúcar de Barrameda (Bajo de Guía)",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "museo-del-moscatel",
+    "name": "Museo del Moscatel",
+    "name_en": "Moscatel Wine Museum",
+    "name_is": "Vínssafn Moscatels",
+    "name_es": "Museo del Moscatel",
+    "category": "explore",
+    "description_es": "Enclavado cerca del centro histórico de Chipiona, ofrece al visitante un paseo por la historia y la cultura del vino moscatel. Horario de visitas: sábados 10:00–14:00 y 18:00–21:00, domingos y festivos 10:00–14:00. Precio: 4€ (entrada general), 3€ (pensionistas), menores de 6 años gratis.",
+    "description_en": "Located near the historic centre of Chipiona, it offers visitors a journey through the history and culture of Moscatel wine. Opening hours: Saturday 10:00–14:00 and 18:00–21:00; Sunday and holidays 10:00–14:00. Price: €4 general, €3 pensioners, children under 6 free.",
+    "description_is": "Staðsett nálægt sögulegum miðbæ Chipiona, býður gestum ferð í gegnum sögu og menningu Moscatel víns. Opnunartímar: laugardag 10:00–14:00 og 18:00–21:00; sunnudag og frídaga 10:00–14:00. Verð: 4€ almennt, 3€ lífeyrisþegar, börn undir 6 ára ókeypis.",
+    "tags": [
+      "wine",
+      "culture",
+      "history",
+      "museum"
+    ],
+    "address": "Avda. de Regla 8-10, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "parque-nacional-de-donana",
+    "name": "Parque Nacional de Doñana",
+    "name_en": "Doñana National Park",
+    "name_is": "Doñana þjóðgarðurinn",
+    "name_es": "Parque Nacional de Doñana",
+    "category": "explore",
+    "description_es": "Uno de los parques nacionales más importantes de España, famoso por su biodiversidad y como lugar de paso de aves migratorias. Incluye marismas, dunas y bosques mediterráneos.",
+    "description_en": "One of Spain's most important national parks, famous for its biodiversity and as a stopover for migratory birds. It includes marshlands, dunes and Mediterranean forests.",
+    "description_is": "Einn mikilvægasti þjóðgarður Spánar, frægur fyrir líffræðilega fjölbreytni og sem viðkomustað farfugla. Hann inniheldur mýrlendi, sanddynur og MiðjarðarhafsSkóga.",
+    "tags": [
+      "national park",
+      "wildlife",
+      "birds",
+      "nature",
+      "marshlands"
+    ],
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "reddit"
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
+    ]
+  },
+  {
+    "id": "puerto-deportivo-pesquero",
+    "name": "Puerto Deportivo-Pesquero",
+    "name_en": "Sports and Fishing Port",
+    "name_is": "Íþrótta- og fiskihöfn",
+    "name_es": "Puerto Deportivo-Pesquero",
+    "category": "explore",
+    "description_es": "Puerto que combina actividades deportivas y pesqueras, ubicado en el litoral de Chipiona. Un lugar animado donde se puede observar la actividad marinera local.",
+    "description_en": "A port combining sporting and fishing activities on the Chipiona coastline. A lively place to observe local maritime activity.",
+    "description_is": "Höfn sem sameinar íþróttastarfsemi og fiskveiðar á strandlínu Chipiona. Líflegt svæði til að fylgjast með staðbundinni sjávarstarfsemi.",
+    "tags": [
+      "seafood",
+      "walking",
+      "family",
+      "free"
+    ],
+    "address": "Puerto Deportivo-Pesquero, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "taberna-el-chusco",
+    "name": "Taberna El Chusco",
+    "name_en": "El Chusco Tavern",
+    "name_is": "El Chusco krá",
+    "name_es": "Taberna El Chusco",
+    "category": "restaurant",
+    "description_es": "Espacio cultural ubicado en C/ Padre Lerchundi, 13. Combina actividades culturales con ambiente de taberna típica.",
+    "description_en": "A cultural space located at C/ Padre Lerchundi, 13. Combines cultural activities with the atmosphere of a traditional tavern.",
+    "description_is": "Menningarrými staðsett á C/ Padre Lerchundi, 13. Sameinar menningarstarfsemi og andrúmsloft hefðbundinnar krár.",
+    "tags": [
+      "culture",
+      "art",
+      "local"
+    ],
+    "address": "C/ Padre Lerchundi, 13, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "evening",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "id": "pena-flamenca-jose-merce",
+    "name": "Peña Flamenca José Mercé",
+    "name_en": "José Mercé Flamenco Club",
+    "name_is": "José Mercé flamencóklúbbur",
+    "name_es": "Peña Flamenca José Mercé",
+    "category": "other",
+    "description_es": "Espectáculos flamencos y conciertos en Avda. de la Esperanza, 12. Más información: 696 054 239.",
+    "description_en": "Flamenco shows and concerts at Avda. de la Esperanza, 12. More information: 696 054 239.",
+    "description_is": "Flamencósýningar og tónleikar á Avda. de la Esperanza, 12. Nánari upplýsingar: 696 054 239.",
+    "tags": [
+      "flamenco",
+      "music",
+      "culture",
+      "entertainment",
+      "evening"
+    ],
+    "address": "Avda. de la Esperanza, 12, Chipiona",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "evening",
+    "sources": [
+      "pdf"
+    ],
+    "source_urls": [
+      null
+    ]
+  },
+  {
+    "name": "Bar Restaurante El Puerto",
+    "name_en": "El Puerto Restaurant Bar",
+    "name_is": "El Puerto veitingastaður",
+    "name_es": "Bar Restaurante El Puerto",
+    "category": "restaurant",
+    "description_es": "Un clásico de Chipiona situado cerca del puerto pesquero, famoso por sus frituras de pescado fresco y mariscos de la zona. Los langostinos de Sanlúcar y las gambas al pil-pil son sus especialidades más demandadas. Ambiente familiar y precios razonables para la calidad ofrecida.",
+    "description_en": "A classic Chipiona establishment near the fishing port, famous for its fresh fried fish and local seafood. King prawns from Sanlúcar and gambas al pil-pil are among its most sought-after specialties. Family-friendly atmosphere with reasonable prices for the quality offered.",
+    "description_is": "Klassískt staður í Chipiona nálægt fiskihöfninni, frægur fyrir steiktan ferskan fisk og sjávarrétti á svæðinu. Rækjur frá Sanlúcar og gambas al pil-pil eru meðal vinsælustu réttanna. Fjölskylduvænt andrúmsloft á góðu verði.",
+    "tags": [
+      "seafood",
+      "tapas",
+      "family",
+      "fried fish",
+      "local"
+    ],
+    "address": "Puerto Pesquero, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "el-puerto-restaurant-bar"
+  },
+  {
+    "name": "Restaurante La Escalera",
+    "name_en": "La Escalera Restaurant",
+    "name_is": "La Escalera veitingastaður",
+    "name_es": "Restaurante La Escalera",
+    "category": "restaurant",
+    "description_es": "Restaurante muy popular en Chipiona conocido por su extensa carta de mariscos y pescados frescos del litoral gaditano. Destaca por su tortillita de camarones y su selección de vinos de la tierra. Muy frecuentado tanto por locales como por turistas durante todo el año.",
+    "description_en": "A very popular restaurant in Chipiona known for its extensive menu of fresh seafood and fish from the Cádiz coast. It stands out for its tortillita de camarones and its selection of local wines. Frequented by locals and tourists alike throughout the year.",
+    "description_is": "Mjög vinsæll veitingastaður í Chipiona þekktur fyrir víðtækt matseðil af ferskum sjávarréttum og fiski frá Cádiz-ströndinni. Einkennist af tortillita de camarones og úrvali af staðbundnum vínum. Sóttur af bæði heimamönnum og ferðamönnum allt árið.",
+    "tags": [
+      "seafood",
+      "tapas",
+      "local wine",
+      "traditional",
+      "family"
+    ],
+    "address": "Calle Isaac Peral, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "la-escalera-restaurant"
+  },
+  {
+    "name": "Chiringuito La Ballena",
+    "name_en": "La Ballena Beach Bar",
+    "name_is": "La Ballena strandbær",
+    "name_es": "Chiringuito La Ballena",
+    "category": "restaurant",
+    "description_es": "Chiringuito situado en la Playa de Regla, uno de los más queridos de Chipiona por su ubicación privilegiada frente al mar. Sirve pescado frito, espetos de sardinas y cócteles refrescantes durante los meses de verano. El ambiente es relajado y perfecto para disfrutar del atardecer gaditano.",
+    "description_en": "A chiringuito located on Playa de Regla, one of the most beloved in Chipiona for its privileged seafront location. It serves fried fish, grilled sardine skewers, and refreshing cocktails during the summer months. The atmosphere is relaxed and perfect for enjoying the Cádiz sunset.",
+    "description_is": "Strandbær við Playa de Regla, einn af þeim vinsælustu í Chipiona vegna frábærrar legu við sjóinn. Þjónar steiktum fiski, grillsardínum og svalkænum kokteilum yfir sumarmánuðina. Andrúmsloftið er slakandi og fullkomið til að njóta sólsetsins yfir Cádiz.",
+    "tags": [
+      "chiringuito",
+      "seafood",
+      "beach",
+      "cocktails",
+      "summer"
+    ],
+    "address": "Playa de Regla, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "la-ballena-beach-bar"
+  },
+  {
+    "name": "Bar La Lonja",
+    "name_en": "La Lonja Bar",
+    "name_is": "La Lonja bar",
+    "name_es": "Bar La Lonja",
+    "category": "restaurant",
+    "description_es": "Bar de tapas muy reconocido en Chipiona situado cerca de la lonja de pescado, donde la frescura del producto está garantizada. Sus tapas de boquerones en vinagre y chopitos fritos son referencia obligada en la localidad. Muy animado al mediodía y por las tardes con clientela local fiel.",
+    "description_en": "A highly regarded tapas bar in Chipiona located near the fish market, guaranteeing the freshness of its products. Its tapas of anchovies in vinegar and fried cuttlefish rings are a must in the town. Very lively at lunchtime and in the evenings with a loyal local clientele.",
+    "description_is": "Mjög metinn tapasbar í Chipiona staðsettur nálægt fiskmarkaðinum, sem tryggir ferskleika afurðanna. Tapas með síld í ediki og steiktum smokkfiski eru meðal þess besta sem boðið er upp á í bænum. Mjög líflegt á hádegi og síðdegis með tryggum heimamannaviðskiptavinum.",
+    "tags": [
+      "tapas",
+      "seafood",
+      "local",
+      "fried fish",
+      "anchovies"
+    ],
+    "address": "Zona de la Lonja, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "la-lonja-bar"
+  },
+  {
+    "name": "Restaurante El Faro de Chipiona",
+    "name_en": "El Faro de Chipiona Restaurant",
+    "name_is": "El Faro de Chipiona veitingastaður",
+    "name_es": "Restaurante El Faro de Chipiona",
+    "category": "restaurant",
+    "description_es": "Restaurante emblemático de Chipiona con vistas al famoso faro, especializado en cocina marinera de alta calidad. Sus arroces caldosos con mariscos y la dorada a la sal son platos estrella de la carta. Un lugar ideal para celebraciones y cenas románticas con el mar de fondo.",
+    "description_en": "An emblematic restaurant in Chipiona with views of the famous lighthouse, specializing in high-quality seafood cuisine. Its soupy rice with seafood and salt-baked gilt-head bream are star dishes on the menu. An ideal place for celebrations and romantic dinners with the sea in the background.",
+    "description_is": "Táknrænn veitingastaður í Chipiona með útsýni yfir hinn fræga vita, sérhæfður í hágæða sjávarréttaeldhús. Grautur með sjávarréttum og saltbakaður gullbrúnn fiskur eru stjörnuréttir á matseðlinum. Kjörinn staður fyrir hátíðlegar kvöldverðir og rómantískar máltíðir með sjóinn í bakgrunni.",
+    "tags": [
+      "seafood",
+      "romantic",
+      "fine dining",
+      "rice dishes",
+      "lighthouse views"
+    ],
+    "address": "Avenida del Faro, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€€",
+    "equipment_rental": false,
+    "best_time": "evening",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "el-faro-de-chipiona-restaurant"
+  },
+  {
+    "name": "Venta El Pinarillo",
+    "name_en": "El Pinarillo Inn",
+    "name_is": "El Pinarillo kráin",
+    "name_es": "Venta El Pinarillo",
+    "category": "restaurant",
+    "description_es": "Venta tradicional andaluza a las afueras de Chipiona, muy popular entre los locales por sus raciones abundantes y precios populares. Destaca por sus carnes a la brasa, sus guisos de temporada y sus tapas de ibérico. Un ambiente rústico y auténtico que recuerda a las ventas de antaño.",
+    "description_en": "A traditional Andalusian roadside inn on the outskirts of Chipiona, very popular with locals for its generous portions and affordable prices. It stands out for its grilled meats, seasonal stews, and Iberian pork tapas. A rustic and authentic atmosphere reminiscent of old-style ventas.",
+    "description_is": "Hefðbundinn andalúsískur vegakráður utan við Chipiona, mjög vinsæll meðal heimamanna fyrir ríkulegar skammtar og hagstætt verð. Einkennist af grillkjöti, árstíðabundnum gúllassum og íberskum svínakjötstapas. Rústískt og ekta andrúmsloft sem minnir á gamaldags ventas.",
+    "tags": [
+      "traditional",
+      "grilled meats",
+      "tapas",
+      "local",
+      "rustic"
+    ],
+    "address": "Carretera de Chipiona, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "el-pinarillo-inn"
+  },
+  {
+    "name": "Chiringuito Tres Palos",
+    "name_en": "Tres Palos Beach Bar",
+    "name_is": "Tres Palos strandbær",
+    "name_es": "Chiringuito Tres Palos",
+    "category": "restaurant",
+    "description_es": "Chiringuito muy conocido en la Playa Cruz del Mar, con gran tradición en Chipiona y clientela fiel desde hace décadas. Ofrece espetos de sardinas, pescaíto frito y bebidas frías en un entorno playero inmejorable. Su ambiente festivo y desenfadado lo convierte en un punto de encuentro imprescindible en verano.",
+    "description_en": "A well-known chiringuito on Playa Cruz del Mar, with a long tradition in Chipiona and a loyal clientele for decades. It offers grilled sardine skewers, fried small fish, and cold drinks in an unbeatable beach setting. Its festive and casual atmosphere makes it an essential meeting point in summer.",
+    "description_is": "Þekktur strandbær við Playa Cruz del Mar, með langa hefð í Chipiona og tryggum viðskiptavinum í áratugi. Þjónar grillsardínum, steiktum litlum fiski og köldum drykk á ótrúlegu strandumhverfi. Hátíðlegt og óformlegt andrúmsloft gerir þetta staðinn að nauðsynlegum samkomustað á sumrin.",
+    "tags": [
+      "chiringuito",
+      "seafood",
+      "beach",
+      "sardines",
+      "summer",
+      "casual"
+    ],
+    "address": "Playa Cruz del Mar, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "tres-palos-beach-bar"
+  },
+  {
+    "name": "Bar Restaurante Casa Paco",
+    "name_en": "Casa Paco Restaurant Bar",
+    "name_is": "Casa Paco veitingastaður",
+    "name_es": "Bar Restaurante Casa Paco",
+    "category": "restaurant",
+    "description_es": "Bar restaurante familiar en el centro de Chipiona con décadas de historia y una clientela muy fiel entre los vecinos del pueblo. Su carta combina tapas clásicas gaditanas con platos de cuchara como el potaje de garbanzos con bacalao. El trato cercano y la cocina casera son sus principales señas de identidad.",
+    "description_en": "A family restaurant bar in the center of Chipiona with decades of history and a very loyal local clientele. Its menu combines classic Cádiz tapas with hearty dishes like chickpea and cod stew. Warm service and home-style cooking are its main hallmarks.",
+    "description_is": "Fjölskyldurekinn veitingastaður í miðborg Chipiona með áratuga sögu og mjög tryggum heimamannaviðskiptavinum. Matseðillinn blandar saman klassískum Cádiz-tapas og mettandi réttum eins og kjúklingabaunasupu með þorski. Hlýlegt þjónusta og heimaeldhús eru helstu einkenni þess.",
+    "tags": [
+      "tapas",
+      "traditional",
+      "family",
+      "stews",
+      "local"
+    ],
+    "address": "Calle Real, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "casa-paco-restaurant-bar"
+  },
+  {
+    "name": "Restaurante El Coto",
+    "name_en": "El Coto Restaurant",
+    "name_is": "El Coto veitingastaður",
+    "name_es": "Restaurante El Coto",
+    "category": "restaurant",
+    "description_es": "Restaurante especializado en mariscos y pescados frescos con una reputación sólida entre los visitantes de Chipiona. Sus langostinos a la plancha y sus gambas blancas de Huelva son joyas de la carta que no se deben perder. Dispone de una terraza exterior muy agradable para disfrutar en los meses de buen tiempo.",
+    "description_en": "A restaurant specializing in fresh seafood and fish with a solid reputation among Chipiona visitors. Its grilled king prawns and white shrimp from Huelva are gems of the menu not to be missed. It has a very pleasant outdoor terrace to enjoy during the warmer months.",
+    "description_is": "Veitingastaður sérhæfður í ferskum sjávarréttum og fiski með traustan orðspor meðal gesta Chipiona. Grillrækjur og hvítar rækjur frá Huelva eru skartgripir á matseðlinum sem ekki má missa af. Hann er með mjög þægilegan útivistarpall til að njóta á hlýrri mánuðum.",
+    "tags": [
+      "seafood",
+      "prawns",
+      "terrace",
+      "fresh fish",
+      "family"
+    ],
+    "address": "Avenida de Sevilla, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "el-coto-restaurant"
+  },
+  {
+    "name": "Taberna El Ancla",
+    "name_en": "El Ancla Tavern",
+    "name_is": "El Ancla krá",
+    "name_es": "Taberna El Ancla",
+    "category": "restaurant",
+    "description_es": "Taberna de ambiente marinero en el casco histórico de Chipiona, decorada con elementos náuticos y fotografías antiguas del puerto. Sus tapas de almejas a la marinera y los boquerones rebozados son de los más celebrados por la clientela habitual. Perfecta para un vermut a mediodía o unas cañas por la tarde.",
+    "description_en": "A maritime-themed tavern in the historic center of Chipiona, decorated with nautical elements and old photographs of the harbor. Its tapas of clams in sailor sauce and battered anchovies are among the most celebrated by regular customers. Perfect for a midday vermouth or afternoon beers.",
+    "description_is": "Sjómannaþemakrá í miðbæ Chipiona, skreytt með sjófarendarhlutum og gömlum ljósmyndum af höfninni. Tapas með kræklingum í sjómannsósu og panneraðar síld eru meðal þess sem fastir viðskiptavinir fagna mest. Fullkominn staður fyrir hádegis-vermouth eða síðdegis-bjórinn.",
+    "tags": [
+      "tapas",
+      "bar",
+      "maritime",
+      "clams",
+      "vermouth",
+      "local"
+    ],
+    "address": "Calle Padre Lerchundi, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "el-ancla-tavern"
+  },
+  {
+    "name": "Chiringuito El Castillo",
+    "name_en": "El Castillo Beach Bar",
+    "name_is": "El Castillo strandbær",
+    "name_es": "Chiringuito El Castillo",
+    "category": "restaurant",
+    "description_es": "Chiringuito ubicado junto al Castillo de San Marcos en la zona costera de Chipiona, con impresionantes vistas al mar. Ofrece una variada selección de pescados fritos, mariscos al vapor y bebidas refrescantes en un entorno único. Muy popular en verano por su localización privilegiada y su ambiente distendido.",
+    "description_en": "A chiringuito located next to the Castillo de San Marcos on the Chipiona coastline, with impressive sea views. It offers a varied selection of fried fish, steamed seafood, and refreshing drinks in a unique setting. Very popular in summer for its privileged location and relaxed atmosphere.",
+    "description_is": "Strandbær staðsettur við Castillo de San Marcos á strönd Chipiona, með glæsilegt sjávarútsýni. Þjónar fjölbreyttum úrvali af steiktum fiski, gufusoðnum sjávarréttum og svalkænum drykk á einstakum stað. Mjög vinsælt á sumrin vegna kjörlegrar staðsetningar og slakandi andrúmslofts.",
+    "tags": [
+      "chiringuito",
+      "beach",
+      "seafood",
+      "views",
+      "summer",
+      "casual"
+    ],
+    "address": "Zona Castillo de San Marcos, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€€",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "el-castillo-beach-bar"
+  },
+  {
+    "name": "Bar El Rincón de Chipiona",
+    "name_en": "El Rincón de Chipiona Bar",
+    "name_is": "El Rincón de Chipiona bar",
+    "name_es": "Bar El Rincón de Chipiona",
+    "category": "restaurant",
+    "description_es": "Bar de tapas con solera en el corazón de Chipiona, frecuentado por generaciones de familias locales que valoran su cocina honesta. Sus tapas de carne en salsa, caracoles en temporada y la ensaladilla rusa son imprescindibles. El precio es muy ajustado y las raciones generosas, lo que lo hace ideal para el tapeo diario.",
+    "description_en": "A venerable tapas bar in the heart of Chipiona, frequented by generations of local families who value its honest cooking. Its tapas of meat in sauce, snails in season, and Russian salad are essential. Prices are very reasonable and portions generous, making it ideal for daily tapas rounds.",
+    "description_is": "Gamall tapasbar í hjarta Chipiona, sóttur af kynslóðum heimafjölskyldna sem meta heiðarlegt eldhús. Tapas með kjöti í sósu, sniglar á réttum tíma og rússnesk salat eru nauðsynleg. Verðið er mjög hagstætt og skammtarnir ríkulegir, sem gerir það fullkomið fyrir daglegar tapasferðir.",
+    "tags": [
+      "tapas",
+      "local",
+      "traditional",
+      "budget",
+      "family"
+    ],
+    "address": "Plaza de Andalucía, Chipiona, Cádiz",
+    "lat": null,
+    "lng": null,
+    "price_range": "€",
+    "equipment_rental": false,
+    "best_time": "any",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "el-rincon-de-chipiona-bar"
+  },
+  {
+    "name": "Paseo Marítimo de Chipiona",
+    "name_en": "Chipiona Seafront Promenade",
+    "name_is": "Strandganga Chipiona",
+    "name_es": "Paseo Marítimo de Chipiona",
+    "category": "walking",
+    "description_es": "El Paseo Marítimo de Chipiona recorre la orilla del mar a lo largo de varios kilómetros, ofreciendo vistas panorámicas del Atlántico y del faro más alto de España. Es ideal para paseos familiares al amanecer o al atardecer, con acceso directo a las playas y numerosos bares y restaurantes en el camino.",
+    "description_en": "The Chipiona Seafront Promenade stretches for several kilometres along the Atlantic coastline, offering sweeping views of the sea and Spain's tallest lighthouse. It is perfect for family walks at sunrise or sunset, with direct beach access and plenty of cafés and restaurants along the way.",
+    "description_is": "Strandpromenáðan í Chipiona liggur nokkra kílómetra meðfram Atlantshafskambrinum og býður upp á víðáttumikið útsýni yfir hafið og hæsta vitar Spánar. Hún hentar vel fyrir fjölskyldugöngur við sólarupprás eða sólsetur, með beinan aðgang að ströndunum og mörgum kaffihúsum á leiðinni.",
+    "tags": [
+      "coastal",
+      "family",
+      "free",
+      "promenade",
+      "scenic",
+      "sunset"
+    ],
+    "address": null,
+    "lat": 36.7355,
+    "lng": -6.4265,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "chipiona-seafront-promenade"
+  },
+  {
+    "name": "Playa de Regla – Paseo de la Playa",
+    "name_en": "Regla Beach Walk",
+    "name_is": "Gönguleið Regla-strandar",
+    "name_es": "Playa de Regla – Paseo de la Playa",
+    "category": "walking",
+    "description_es": "La Playa de Regla es una de las playas más populares de Chipiona, con una amplia franja de arena dorada que invita a largas caminatas a orillas del mar. El paseo a lo largo de esta playa permite disfrutar del oleaje atlántico y de las vistas hacia el Parque Natural de Doñana en la lejanía.",
+    "description_en": "Playa de Regla is one of Chipiona's most popular beaches, featuring a wide stretch of golden sand ideal for long walks by the sea. Strolling along this beach offers views of the Atlantic waves and distant glimpses toward the Doñana Natural Park.",
+    "description_is": "Regla-strönd er ein vinsælasta strönd Chipiona, með víðan gullinn sandstrand sem býður upp á langa göngu við sjávarbakkann. Göngutúr meðfram þessari strönd gefur tækifæri til að njóta Atlantshafsbárunnar og fjarlægs útsýnis yfir náttúruverndarsvæðið Doñana.",
+    "tags": [
+      "coastal",
+      "beach",
+      "family",
+      "free",
+      "sandy",
+      "scenic"
+    ],
+    "address": null,
+    "lat": 36.732,
+    "lng": -6.431,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "regla-beach-walk"
+  },
+  {
+    "name": "Playa de Las Canteras – Camino Costero",
+    "name_en": "Las Canteras Beach Coastal Path",
+    "name_is": "Strandgönguleið Las Canteras",
+    "name_es": "Playa de Las Canteras – Camino Costero",
+    "category": "walking",
+    "description_es": "La Playa de Las Canteras ofrece un entorno más tranquilo y recogido en comparación con otras playas de Chipiona, ideal para paseos tranquilos junto a las rocas y las pozas naturales que quedan al descubrir la marea. El camino costero que la bordea permite observar la flora y fauna litoral propia de la costa gaditana.",
+    "description_en": "Las Canteras Beach provides a quieter and more sheltered setting compared to other Chipiona beaches, perfect for peaceful walks among the rocks and natural tidal pools. The coastal path skirting the beach allows walkers to observe the local coastal flora and fauna of the Cádiz shoreline.",
+    "description_is": "Las Canteras-strönd er rólegar og friðsamlegar en aðrar strendur í Chipiona og hentar vel fyrir rólegur göngtúra meðal klettanna og náttúrulegra sjávarlauga. Strandgönguleiðin sem liggur meðfram ströndinni gefur tækifæri til að skoða strendflóru og -dýralíf Cádiz-strandlengju.",
+    "tags": [
+      "coastal",
+      "nature",
+      "free",
+      "rocks",
+      "tidal-pools",
+      "quiet"
+    ],
+    "address": null,
+    "lat": 36.7385,
+    "lng": -6.422,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "las-canteras-beach-coastal-path"
+  },
+  {
+    "name": "Playa de La Cruz del Mar – Caminata de Orilla",
+    "name_en": "La Cruz del Mar Beach Shoreline Walk",
+    "name_is": "Strandganga við La Cruz del Mar",
+    "name_es": "Playa de La Cruz del Mar – Caminata de Orilla",
+    "category": "walking",
+    "description_es": "La Playa de La Cruz del Mar es una playa extensa al sur de Chipiona que se presta a largas caminatas por la orilla del Atlántico con el horizonte abierto. Durante la bajamar, la arena compacta facilita el paseo y permite llegar hasta las inmediaciones de la desembocadura del Guadalquivir.",
+    "description_en": "La Cruz del Mar Beach is a wide beach south of Chipiona that lends itself to long shoreline walks with an open Atlantic horizon. At low tide, the firm sand makes walking easy and allows you to stroll toward the mouth of the Guadalquivir River.",
+    "description_is": "La Cruz del Mar-strönd er víð strönd suður af Chipiona sem hentar vel fyrir langar göngtúrar meðfram Atlantshafsstrendunni með opinn sjóndeildarhring. Við fjöru verður sandurinn harður og auðveldur í göngu og hægt er að labba í átt að mynni Guadalquivir-árinnar.",
+    "tags": [
+      "coastal",
+      "beach",
+      "free",
+      "family",
+      "low-tide",
+      "scenic"
+    ],
+    "address": null,
+    "lat": 36.722,
+    "lng": -6.435,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "la-cruz-del-mar-beach-shoreline-walk"
+  },
+  {
+    "name": "Sendero Litoral Chipiona–Rota",
+    "name_en": "Chipiona–Rota Coastal Trail",
+    "name_is": "Strandgönguleið Chipiona–Rota",
+    "name_es": "Sendero Litoral Chipiona–Rota",
+    "category": "walking",
+    "description_es": "Este sendero costero une los municipios de Chipiona y Rota a lo largo de la costa atlántica, cruzando playas, dunas y zonas de pinares litorales. Con una distancia aproximada de 12 kilómetros, es una ruta asequible que muestra la diversidad paisajística del litoral de la Bahía de Cádiz.",
+    "description_en": "This coastal trail connects the towns of Chipiona and Rota along the Atlantic coast, passing through beaches, dunes, and coastal pine forests. Approximately 12 kilometres long, it is an accessible route showcasing the varied landscapes of the Bay of Cádiz shoreline.",
+    "description_is": "Þessi strandgönguleið tengir bæina Chipiona og Rota meðfram Atlantshafsströndinni, í gegnum strendur, sanddýnur og strandlægar furuskógar. Leiðin er um 12 kílómetrar að lengd og sýnir fjölbreytt landslag Cádiz-flóaströndarinnar.",
+    "tags": [
+      "coastal",
+      "nature",
+      "free",
+      "long-distance",
+      "dunes",
+      "pine-forest"
+    ],
+    "address": null,
+    "lat": 36.728,
+    "lng": -6.419,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "chipiona-rota-coastal-trail"
+  },
+  {
+    "name": "Vía Verde de la Sierra de Cádiz",
+    "name_en": "Cádiz Hills Greenway",
+    "name_is": "Græna leiðin í Cádiz-fjöllunum",
+    "name_es": "Vía Verde de la Sierra de Cádiz",
+    "category": "walking",
+    "description_es": "La Vía Verde de la Sierra de Cádiz discurre por el trazado de un antiguo ferrocarril en la serranía gaditana, entre Olvera y Puerto Serrano, con más de 36 kilómetros de recorrido llano y accesible. Aunque su punto de inicio más cercano a Chipiona se encuentra en la sierra interior, es fácilmente alcanzable en coche y ofrece paisajes de gran belleza entre puentes, túneles y olivos.",
+    "description_en": "The Cádiz Hills Greenway follows the route of a former railway through the Cádiz mountain range, running over 36 kilometres between Olvera and Puerto Serrano on a flat, accessible track. Although its nearest starting point from Chipiona is inland, it is easily reached by car and offers stunning scenery through bridges, tunnels, and olive groves.",
+    "description_is": "Græna leiðin í Cádiz-fjöllunum fylgir leið fyrrverandi járnbrautar í Cádiz-fjöllunum, liggur yfir 36 kílómetra milli Olvera og Puerto Serrano á flötum og aðgengilegum slóða. Þótt næsti upphafspunktur frá Chipiona sé á innsvæðinu er auðvelt að komast þangað með bíl og leiðin býður upp á dásamlegt landslag í gegnum brýr, göng og ólífuviðarlund.",
+    "tags": [
+      "greenway",
+      "nature",
+      "family",
+      "accessible",
+      "historic",
+      "inland"
+    ],
+    "address": null,
+    "lat": 36.938,
+    "lng": -5.265,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "cadiz-hills-greenway"
+  },
+  {
+    "name": "Paseo por el Casco Histórico de Chipiona",
+    "name_en": "Chipiona Old Town Stroll",
+    "name_is": "Göngutúr um Chipiona-gamlaborg",
+    "name_es": "Paseo por el Casco Histórico de Chipiona",
+    "category": "walking",
+    "description_es": "El casco histórico de Chipiona guarda un encanto andaluz con calles encaladas, plazas sombreadas y monumentos como la Iglesia de Nuestra Señora de la O y el Santuario de Nuestra Señora de Regla. Un paseo a pie por el centro permite descubrir la arquitectura tradicional, las tabernas locales y el ambiente auténtico de este pueblo marinero.",
+    "description_en": "Chipiona's historic centre has a charming Andalusian character with whitewashed streets, shady squares, and landmarks such as the Church of Our Lady of the O and the Sanctuary of Our Lady of Regla. A leisurely walk through the town centre reveals traditional architecture, local taverns, and the authentic atmosphere of this fishing village.",
+    "description_is": "Gamlaborg Chipiona hefur heillandi andalúsískt yfirborð með hvítkalkaðar götur, skuggar torg og kennileiti eins og kirkjuna Nuestra Señora de la O og helgidóminn Nuestra Señora de Regla. Göngutúr um miðbæinn sýnir hefðbundna byggingarmenningu, heimamarkaðstafernur og raunverulegan blæ þessa sjávarþorps.",
+    "tags": [
+      "town",
+      "historic",
+      "cultural",
+      "free",
+      "family",
+      "architecture"
+    ],
+    "address": null,
+    "lat": 36.7336,
+    "lng": -6.4244,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "afternoon",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "chipiona-old-town-stroll"
+  },
+  {
+    "name": "Sendero del Faro de Chipiona",
+    "name_en": "Chipiona Lighthouse Walk",
+    "name_is": "Gönguleið að vitanum í Chipiona",
+    "name_es": "Sendero del Faro de Chipiona",
+    "category": "walking",
+    "description_es": "El Faro de Chipiona, con 62 metros de altura, es el más alto de España y un icono del litoral gaditano. El camino peatonal que rodea el faro y sus inmediaciones ofrece vistas espectaculares del Atlántico, la desembocadura del Guadalquivir y, en días claros, las costas portuguesas.",
+    "description_en": "The Chipiona Lighthouse, standing 62 metres tall, is the highest in Spain and an iconic landmark of the Cádiz coast. The pedestrian path around the lighthouse and its surroundings offers spectacular views of the Atlantic, the mouth of the Guadalquivir River, and on clear days, the Portuguese coastline.",
+    "description_is": "Vitinn í Chipiona, 62 metrar á hæð, er hæsti viti Spánar og eitt þekktasta kennileiti Cádiz-strandlengju. Gangstígurinn í kringum vitann og nágrenni hans býður upp á glæsilegt útsýni yfir Atlantshafið, mynni Guadalquivir-árinnar og, á björtum dögum, Portúgalsstrondina.",
+    "tags": [
+      "lighthouse",
+      "coastal",
+      "scenic",
+      "free",
+      "historic",
+      "viewpoint"
+    ],
+    "address": null,
+    "lat": 36.7403,
+    "lng": -6.4372,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "evening",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "chipiona-lighthouse-walk"
+  },
+  {
+    "name": "Sendero de las Salinas de Chipiona",
+    "name_en": "Chipiona Salt Marshes Nature Trail",
+    "name_is": "Náttúrugönguleið Chipiona-saltmýra",
+    "name_es": "Sendero de las Salinas de Chipiona",
+    "category": "walking",
+    "description_es": "Las marismas y salinas situadas en los alrededores de Chipiona forman un ecosistema de gran valor ecológico, especialmente para la observación de aves migratorias y residentes. El sendero que discurre junto a estas zonas húmedas permite contemplar flamencos, garcetas y otras especies características de la bahía de Cádiz.",
+    "description_en": "The salt marshes and wetlands on the outskirts of Chipiona form an ecologically valuable ecosystem, particularly for watching migratory and resident birds. The trail running alongside these wetlands offers sightings of flamingos, little egrets, and other species typical of the Bay of Cádiz.",
+    "description_is": "Saltmýrarnar og votlendissvæðin á jaðri Chipiona mynda líffræðilega dýrmætt vistkerfi, sérstaklega fyrir fuglaskoðun á farandförum og fastasetnum fuglum. Gönguleiðin sem liggur meðfram þessum votlendissvæðum gefur tækifæri til að sjá flamingóar, litlar hvítar hegrar og aðrar tegundir sem eru dæmigerðar fyrir Cádiz-flóann.",
+    "tags": [
+      "nature",
+      "birdwatching",
+      "wetlands",
+      "free",
+      "wildlife",
+      "family"
+    ],
+    "address": null,
+    "lat": 36.725,
+    "lng": -6.415,
+    "price_range": "free",
+    "equipment_rental": false,
+    "best_time": "morning",
+    "sources": [
+      "knowledge"
+    ],
+    "source_urls": [
+      null
+    ],
+    "id": "chipiona-salt-marshes-nature-trail"
+  }
+]
