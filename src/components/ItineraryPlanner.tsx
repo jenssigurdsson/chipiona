@@ -16,7 +16,7 @@ import {
 import { CSS } from "@dnd-kit/utilities";
 import type { Activity, Language } from "../types";
 import { t } from "../i18n";
-import { CATEGORY_EMOJI } from "./CategoryPills";
+import { CATEGORY_ICONS } from "./categoryIcons";
 
 const STORAGE_KEY = "chipiona_itinerary";
 
@@ -75,7 +75,7 @@ function SortableItem({
       {...listeners}
       className="itinerary-item"
     >
-      <span style={{ fontSize: 18 }}>{CATEGORY_EMOJI[activity.category]}</span>
+      {(() => { const Icon = CATEGORY_ICONS[activity.category] ?? CATEGORY_ICONS.other; return <Icon size={18} strokeWidth={1.75} />; })()}
       <span style={{ flex: 1, fontSize: 13, fontWeight: 600 }}>{name}</span>
       <button
         onClick={(e) => { e.stopPropagation(); onRemove(); }}

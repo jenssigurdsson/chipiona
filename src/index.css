@@ -85,7 +85,10 @@ button { cursor: pointer; font-family: var(--font-body); }
   transition: color 0.15s;
 }
 .bottom-nav__item.active { color: var(--sun); }
-.bottom-nav__icon { font-size: 20px; }
+.bottom-nav__item svg { transition: transform 0.2s; }
+.bottom-nav__item.active svg { transform: scale(1.15); }
+.bottom-nav__item:not(.active):hover { color: var(--ink); }
+.bottom-nav__item:not(.active):hover svg { transform: scale(1.1); }
 
 /* Content area */
 .content { flex: 1; overflow-y: auto; -webkit-overflow-scrolling: touch; }
@@ -104,6 +107,9 @@ button { cursor: pointer; font-family: var(--font-body); }
 .category-pills::-webkit-scrollbar { display: none; }
 .pill {
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
   padding: 6px 14px;
   border-radius: 20px;
   font-size: 13px;
@@ -111,9 +117,17 @@ button { cursor: pointer; font-family: var(--font-body); }
   border: 2px solid var(--sand);
   color: var(--ink);
   background: transparent;
-  transition: all 0.15s;
+  transition: all 0.18s;
+}
+.pill:hover:not(.active) {
+  border-color: var(--sun);
+  color: var(--sun);
+  transform: translateY(-1px);
 }
 .pill.active { background: var(--sun); border-color: var(--sun); color: var(--white); }
+.pill svg { transition: transform 0.2s; }
+.pill:hover svg { transform: scale(1.15); }
+.pill.active svg { transform: scale(1.1); }
 
 /* Search */
 .search-bar { padding: 0 16px 12px; }

@@ -1,4 +1,5 @@
 import { useState, useCallback } from "react";
+import { Compass, Map, CalendarDays, Heart } from "lucide-react";
 import { useActivities } from "./hooks/useActivities";
 import { useLanguage } from "./hooks/useLanguage";
 import { useUserData } from "./hooks/useUserData";
@@ -37,11 +38,11 @@ export default function App() {
     setTab("itinerary");
   }, [selected]);
 
-  const NAV: Array<{ key: Tab; icon: string; label: string }> = [
-    { key: "list",      icon: "🧭", label: tr.nav.list },
-    { key: "map",       icon: "🗺️",  label: tr.nav.map },
-    { key: "itinerary", icon: "📅", label: tr.nav.itinerary },
-    { key: "mylist",    icon: "❤️",  label: tr.nav.mylist },
+  const NAV: Array<{ key: Tab; Icon: React.ComponentType<{ size?: number; strokeWidth?: number; fill?: string }>; label: string }> = [
+    { key: "list",      Icon: Compass,      label: tr.nav.list },
+    { key: "map",       Icon: Map,          label: tr.nav.map },
+    { key: "itinerary", Icon: CalendarDays, label: tr.nav.itinerary },
+    { key: "mylist",    Icon: Heart,        label: tr.nav.mylist },
   ];
 
   return (
@@ -134,16 +135,23 @@ export default function App() {
       </main>
 
       <nav className="bottom-nav">
-        {NAV.map(({ key, icon, label }) => (
-          <button
-            key={key}
-            className={`bottom-nav__item${tab === key ? " active" : ""}`}
-            onClick={() => setTab(key)}
-          >
-            <span className="bottom-nav__icon">{icon}</span>
-            {label}
-          </button>
-        ))}
+        {NAV.map(({ key, Icon, label }) => {
+          const isActive = tab === key;
+          return (
+            <button
+              key={key}
+              className={`bottom-nav__item${isActive ? " active" : ""}`}
+              onClick={() => setTab(key)}
+            >
+              <Icon
+                size={22}
+                strokeWidth={isActive ? 0 : 1.75}
+                fill={isActive ? "currentColor" : "none"}
+              />
+              {label}
+            </button>
+          );
+        })}
       </nav>
 
       {selected && (
