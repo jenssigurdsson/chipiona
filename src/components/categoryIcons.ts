@@ -6,7 +6,7 @@ import type { Category } from "../types";
 
 type CatKey = Category | "all";
 
-export const CATEGORY_ICONS: Record<CatKey, React.ComponentType<{ size?: number; strokeWidth?: number; color?: string }>> = {
+export const CATEGORY_ICONS: Record<CatKey, React.ComponentType<{ size?: number; strokeWidth?: number; color?: string; fill?: string }>> = {
   all:         Globe,
   restaurant:  UtensilsCrossed,
   beach:       Waves,
