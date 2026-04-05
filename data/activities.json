@@ -5,7 +5,7 @@
     "name_en": "Chipiona",
     "name_is": "Chipiona",
     "name_es": "Chipiona",
-    "category": "beach",
+    "category": "other",
     "description_es": "Una ciudad costera en el sur de España perfecta para disfrutar de hermosos atardeceres. Es ideal para caminar por la playa de noche, escuchando las olas romper en la arena. Un lugar romántico para parejas que buscan experiencias junto al mar.",
     "description_en": "A coastal town in southern Spain perfect for enjoying beautiful sunsets. It's ideal for nighttime beach walks, listening to the waves crash on the sand. A romantic location for couples seeking seaside experiences.",
     "description_is": "Strandbær í suðurhluta Spánar sem er fullkominn til að njóta fallegra sólarlauga. Þetta er tilvalinn staður fyrir næturgang meðfram ströndinni og að hlusta á bylgjurnar brjótast á sandinum. Rómantískur staður fyrir pör sem leita að sjávarútsýni.",
@@ -31,36 +31,6 @@
     "source_urls": [
       "https://www.reddit.com/r/andalucia/search?q=Chipiona",
       "https://www.reddit.com/r/travel/search?q=Chipiona"
-    ]
-  },
-  {
-    "id": "isla-cristina",
-    "name": "Isla Cristina",
-    "name_en": "Isla Cristina",
-    "name_is": "Isla Cristina",
-    "name_es": "Isla Cristina",
-    "category": "beach",
-    "description_es": "Pueblo pesquero y destino de playa en Huelva, cerca de la frontera portuguesa. Conocido por sus marismas, puerto pesquero tradicional y playas naturales.",
-    "description_en": "Fishing village and beach destination in Huelva, near the Portuguese border. Known for its marshlands, traditional fishing port and natural beaches.",
-    "description_is": "Sjávarþorp og strandáfangastaður í Huelva, nálægt portúgölsku landamærunum. Þekktur fyrir mýrlendi, hefðbundna fiskihöfn og náttúrulegar strendur.",
-    "tags": [
-      "fishing village",
-      "beach",
-      "marshlands",
-      "traditional",
-      "portugal border"
-    ],
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "price_range": "free",
-    "equipment_rental": false,
-    "best_time": "any",
-    "sources": [
-      "reddit"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
     ]
   },
   {
@@ -91,35 +61,6 @@
     ],
     "source_urls": [
       null
-    ]
-  },
-  {
-    "id": "playa-de-bolonia",
-    "name": "Playa de Bolonia",
-    "name_en": "Playa de Bolonia",
-    "name_is": "Playa de Bolonia",
-    "name_es": "Playa de Bolonia",
-    "category": "beach",
-    "description_es": "Una hermosa playa natural ubicada cerca de las ruinas romanas de Baelo Claudia. Es conocida por su arena blanca y aguas cristalinas, sin desarrollo hotelero masivo.",
-    "description_en": "A beautiful natural beach located near the Roman ruins of Baelo Claudia. It's known for its white sand and crystal-clear waters, without massive hotel development.",
-    "description_is": "Falleg náttúruleg strönd staðsett nálægt rómversku rústunum í Baelo Claudia. Hún er þekkt fyrir hvítan sand og tærar vötn, án stórrar hóteluppbyggingar.",
-    "tags": [
-      "beach",
-      "natural",
-      "roman ruins",
-      "costa de la luz"
-    ],
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "price_range": "free",
-    "equipment_rental": false,
-    "best_time": "any",
-    "sources": [
-      "reddit"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
     ]
   },
   {
@@ -180,93 +121,6 @@
     ],
     "source_urls": [
       null
-    ]
-  },
-  {
-    "id": "punta-umbria",
-    "name": "Punta Umbría",
-    "name_en": "Punta Umbría",
-    "name_is": "Punta Umbría",
-    "name_es": "Punta Umbría",
-    "category": "beach",
-    "description_es": "Localidad costera en la provincia de Huelva conocida por sus extensas playas de arena fina. Es un destino popular para quienes buscan playas menos masificadas en la Costa de la Luz.",
-    "description_en": "Coastal town in Huelva province known for its extensive fine sand beaches. It's a popular destination for those seeking less crowded beaches on the Costa de la Luz.",
-    "description_is": "Strandbær í Huelva héraði þekktur fyrir víðfeðmar strendur með fínum sandi. Það er vinsæll áfangastaður fyrir þá sem leita að minna fjölmennum ströndum á Costa de la Luz.",
-    "tags": [
-      "beach",
-      "coastal town",
-      "costa de la luz",
-      "fine sand"
-    ],
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "price_range": "free",
-    "equipment_rental": false,
-    "best_time": "any",
-    "sources": [
-      "reddit"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
-    ]
-  },
-  {
-    "id": "baelo-claudia",
-    "name": "Baelo Claudia",
-    "name_en": "Baelo Claudia",
-    "name_is": "Baelo Claudia",
-    "name_es": "Baelo Claudia",
-    "category": "sightseeing",
-    "description_es": "Yacimiento arqueológico romano ubicado cerca de la playa de Bolonia. Estas ruinas bien conservadas muestran los restos de una antigua ciudad romana con teatro, basílica y fábricas de salazón.",
-    "description_en": "Roman archaeological site located near Bolonia beach. These well-preserved ruins show the remains of an ancient Roman city with theater, basilica and fish-salting factories.",
-    "description_is": "Rómversk fornleifasvæði staðsett nálægt Bolonia strönd. Þessar vel varðveittu rústir sýna leifar fornrar rómverskrar borgar með leikhúsi, basilíku og fiskasöltunarverskstæðum.",
-    "tags": [
-      "roman ruins",
-      "archaeology",
-      "historical site",
-      "museum"
-    ],
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "price_range": "€",
-    "equipment_rental": false,
-    "best_time": "any",
-    "sources": [
-      "reddit"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
-    ]
-  },
-  {
-    "id": "bolonia-baelo-claudia",
-    "name": "Bolonia (Baelo Claudia)",
-    "name_en": "Bolonia (Baelo Claudia)",
-    "name_is": "Bolonia (Baelo Claudia)",
-    "name_es": "Bolonia (Baelo Claudia)",
-    "category": "sightseeing",
-    "description_es": "Playa favorita del viajero que combina hermosas costas con importantes ruinas romanas. El sitio arqueológico de Baelo Claudia ofrece una experiencia única de historia antigua junto al mar.",
-    "description_en": "Traveler's favorite beach that combines beautiful coastline with important Roman ruins. The archaeological site of Baelo Claudia offers a unique ancient history experience by the sea.",
-    "description_is": "Uppáhalds strönd ferðalangsins sem sameinar fallega strandlínu og mikilvægar rómverskar rústir. Fornleifasvæðið Baelo Claudia býður upp á einstaka upplifun af fornri sögu við sjávarsíðuna.",
-    "tags": [
-      "roman ruins",
-      "archaeology",
-      "beach",
-      "historical site"
-    ],
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "price_range": "€",
-    "equipment_rental": false,
-    "best_time": "any",
-    "sources": [
-      "reddit"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/andalucia/search?q=Chipiona"
     ]
   },
   {
@@ -662,36 +516,6 @@
     ]
   },
   {
-    "id": "bicicletas-jurado-costa-ballena-rota",
-    "name": "Bicicletas Jurado (Costa Ballena-Rota)",
-    "name_en": "Bicicletas Jurado (Costa Ballena-Rota)",
-    "name_is": "Bicicletas Jurado (Costa Ballena-Rota)",
-    "name_es": "Bicicletas Jurado (Costa Ballena-Rota)",
-    "category": "sports",
-    "description_es": "Alquiler de bicicletas de montaña, de paseo, para niños, con cesta, triciclos, porta bebés y carritos. Bicicletas a domicilio sin coste adicional. Teléfono: 608 194 947.",
-    "description_en": "Rental of mountain bikes, city bikes, children's bikes, with basket, tricycles, baby carriers, and strollers. Home delivery at no extra cost. Phone: 608 194 947.",
-    "description_is": "Leiga á fjallhjólum, borgarhjólum, barnahjólum, með körfu, þríhjólum, barnabílastæðum og hjólakerlum. Heimsending án aukakostnaðar. Sími: 608 194 947.",
-    "tags": [
-      "rental",
-      "cycling",
-      "family",
-      "outdoor",
-      "beach"
-    ],
-    "address": "C.C. El Lago, Costa Ballena-Rota",
-    "lat": null,
-    "lng": null,
-    "price_range": "€€",
-    "equipment_rental": true,
-    "best_time": "morning",
-    "sources": [
-      "pdf"
-    ],
-    "source_urls": [
-      null
-    ]
-  },
-  {
     "id": "bicicletas-valdes-chipiona-costa-ballena-rota",
     "name": "Bicicletas Valdés (Chipiona / Costa Ballena-Rota)",
     "name_en": "Bicicletas Valdés (Chipiona / Costa Ballena-Rota)",
@@ -927,38 +751,6 @@
     ]
   },
   {
-    "id": "agencia-de-viajes-donana-visita-en-todoterreno",
-    "name": "Agencia de Viajes Doñana - Visita en todoterreno",
-    "name_en": "Agencia de Viajes Doñana",
-    "name_is": "Agencia de Viajes Doñana",
-    "name_es": "Agencia de Viajes Doñana - Visita en todoterreno",
-    "category": "explore",
-    "description_es": "Visita en todoterreno al Espacio Natural de Doñana con recorrido de 70 km. Duración: 3h30 aproximadamente. Precio: 40€ por persona (niños hasta 4 años gratis). Imprescindible reserva previa.",
-    "description_en": "4x4 visit to the Doñana Natural Space with a 70km route. Duration: approximately 3.5 hours. Price: €40 per person (children up to 4 years free). Advance booking essential.",
-    "description_is": "Jeppaferð til Doñana náttúrusvæðisins með 70 km leið. Tímalengd: um 3,5 klst. Verð: 40€ á mann (börn upp að 4 ára ókeypis). Fyrirfram bókun nauðsynleg.",
-    "tags": [
-      "nature",
-      "4x4",
-      "wildlife",
-      "national park",
-      "guided",
-      "adventure",
-      "booking required"
-    ],
-    "address": "C/ San Juan, 20, Sanlúcar de Barrameda",
-    "lat": null,
-    "lng": null,
-    "price_range": "€€€",
-    "equipment_rental": false,
-    "best_time": "morning",
-    "sources": [
-      "pdf"
-    ],
-    "source_urls": [
-      null
-    ]
-  },
-  {
     "id": "bodega-cesar-florido",
     "name": "Bodega César Florido",
     "name_en": "Bodega César Florido",
@@ -1106,69 +898,6 @@
     ]
   },
   {
-    "id": "espacio-natural-de-donana-itinerario-fluvial-sanlucar-guadalquivir-donana",
-    "name": "Espacio Natural de Doñana - Itinerario Fluvial Sanlúcar-Guadalquivir-Doñana",
-    "name_en": "Espacio Natural de Doñana",
-    "name_is": "Espacio Natural de Doñana",
-    "name_es": "Espacio Natural de Doñana - Itinerario Fluvial Sanlúcar-Guadalquivir-Doñana",
-    "category": "explore",
-    "description_es": "Visita fluvial en el Buque Los Cristóbal con navegación por el Guadalquivir, parada a pie en Doñana y visita guiada a los llanos y chozas del Parque Nacional. Precios: Adultos 20€, mayores de 65 y estudiantes 15€, niños 5-12 años 10€. Duración: 2h30-3h.",
-    "description_en": "River tour on the Los Cristóbal vessel with navigation along the Guadalquivir, a walking stop in Doñana, and a guided visit to the plains and huts of the National Park. Prices: Adults €20, seniors 65+ and students €15, children 5-12 €10. Duration: 2.5–3 hours.",
-    "description_is": "Ánafar á Los Cristóbal skipinu með siglingu eftir Guadalquivir, göngustopp í Doñana og leiðsöguferð um flæður og hyttur þjóðgarðsins. Verð: Fullorðnir 20€, eldri borgarar 65+ og nemendur 15€, börn 5-12 ára 10€. Tímalengd: 2,5-3 klst.",
-    "tags": [
-      "nature",
-      "boat",
-      "wildlife",
-      "national park",
-      "guided",
-      "family"
-    ],
-    "address": "Sanlúcar de Barrameda (Bajo de Guía)",
-    "lat": null,
-    "lng": null,
-    "price_range": "€€",
-    "equipment_rental": false,
-    "best_time": "morning",
-    "sources": [
-      "pdf"
-    ],
-    "source_urls": [
-      null
-    ]
-  },
-  {
-    "id": "espacio-natural-de-donana-visita-en-barco-con-todo-terreno-donana-al-completo",
-    "name": "Espacio Natural de Doñana - Visita en barco con todo terreno Doñana al Completo",
-    "name_en": "Espacio Natural de Doñana",
-    "name_is": "Espacio Natural de Doñana",
-    "name_es": "Espacio Natural de Doñana - Visita en barco con todo terreno Doñana al Completo",
-    "category": "explore",
-    "description_es": "Inicio en la playa de Bajo de Guía en Sanlúcar, traslado a Doñana en barcaza y recorrido de 30 km en todoterreno por los diferentes ecosistemas del Parque Nacional. Precio: 40€ (mayores de 13 años), 35€ (5-12 años), menores de 4 años gratis. Duración: 2h30-3h.",
-    "description_en": "Starts at Bajo de Guía beach in Sanlúcar, transfer to Doñana by barge, and 30km 4x4 tour through the different ecosystems of the National Park. Price: €40 (13+ years), €35 (5–12 years), children under 4 free. Duration: 2.5–3 hours.",
-    "description_is": "Byrjar á Bajo de Guía strönd í Sanlúcar, flutningur til Doñana með prám og 30 km jeppaferð í gegnum mismunandi vistkerfi þjóðgarðsins. Verð: 40€ (13+ ára), 35€ (5-12 ára), börn undir 4 ára ókeypis. Tímalengd: 2,5-3 klst.",
-    "tags": [
-      "nature",
-      "4x4",
-      "wildlife",
-      "national park",
-      "guided",
-      "family",
-      "adventure"
-    ],
-    "address": "Sanlúcar de Barrameda (Bajo de Guía)",
-    "lat": null,
-    "lng": null,
-    "price_range": "€€€",
-    "equipment_rental": false,
-    "best_time": "morning",
-    "sources": [
-      "pdf"
-    ],
-    "source_urls": [
-      null
-    ]
-  },
-  {
     "id": "museo-del-moscatel",
     "name": "Museo del Moscatel",
     "name_en": "Museo del Moscatel",
@@ -1195,36 +924,6 @@
     ],
     "source_urls": [
       null
-    ]
-  },
-  {
-    "id": "parque-nacional-de-donana",
-    "name": "Parque Nacional de Doñana",
-    "name_en": "Parque Nacional de Doñana",
-    "name_is": "Parque Nacional de Doñana",
-    "name_es": "Parque Nacional de Doñana",
-    "category": "explore",
-    "description_es": "Uno de los parques nacionales más importantes de España, famoso por su biodiversidad y como lugar de paso de aves migratorias. Incluye marismas, dunas y bosques mediterráneos.",
-    "description_en": "One of Spain's most important national parks, famous for its biodiversity and as a stopover for migratory birds. It includes marshlands, dunes and Mediterranean forests.",
-    "description_is": "Einn mikilvægasti þjóðgarður Spánar, frægur fyrir líffræðilega fjölbreytni og sem viðkomustað farfugla. Hann inniheldur mýrlendi, sanddynur og MiðjarðarhafsSkóga.",
-    "tags": [
-      "national park",
-      "wildlife",
-      "birds",
-      "nature",
-      "marshlands"
-    ],
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "price_range": "€",
-    "equipment_rental": false,
-    "best_time": "morning",
-    "sources": [
-      "reddit"
-    ],
-    "source_urls": [
-      "https://www.reddit.com/r/andalucia/search?q=Chipiona%20Andalucia"
     ]
   },
   {
@@ -1262,7 +961,7 @@
     "name_en": "Taberna El Chusco",
     "name_is": "Taberna El Chusco",
     "name_es": "Taberna El Chusco",
-    "category": "restaurant",
+    "category": "other",
     "description_es": "Espacio cultural ubicado en C/ Padre Lerchundi, 13. Combina actividades culturales con ambiente de taberna típica.",
     "description_en": "A cultural space located at C/ Padre Lerchundi, 13. Combines cultural activities with the atmosphere of a traditional tavern.",
     "description_is": "Menningarrými staðsett á C/ Padre Lerchundi, 13. Sameinar menningarstarfsemi og andrúmsloft hefðbundinnar krár.",
@@ -1831,37 +1530,6 @@
       null
     ],
     "id": "chipiona-rota-coastal-trail"
-  },
-  {
-    "name": "Vía Verde de la Sierra de Cádiz",
-    "name_en": "Cádiz Hills Greenway",
-    "name_is": "Græna leiðin í Cádiz-fjöllunum",
-    "name_es": "Vía Verde de la Sierra de Cádiz",
-    "category": "walking",
-    "description_es": "La Vía Verde de la Sierra de Cádiz discurre por el trazado de un antiguo ferrocarril en la serranía gaditana, entre Olvera y Puerto Serrano, con más de 36 kilómetros de recorrido llano y accesible. Aunque su punto de inicio más cercano a Chipiona se encuentra en la sierra interior, es fácilmente alcanzable en coche y ofrece paisajes de gran belleza entre puentes, túneles y olivos.",
-    "description_en": "The Cádiz Hills Greenway follows the route of a former railway through the Cádiz mountain range, running over 36 kilometres between Olvera and Puerto Serrano on a flat, accessible track. Although its nearest starting point from Chipiona is inland, it is easily reached by car and offers stunning scenery through bridges, tunnels, and olive groves.",
-    "description_is": "Græna leiðin í Cádiz-fjöllunum fylgir leið fyrrverandi járnbrautar í Cádiz-fjöllunum, liggur yfir 36 kílómetra milli Olvera og Puerto Serrano á flötum og aðgengilegum slóða. Þótt næsti upphafspunktur frá Chipiona sé á innsvæðinu er auðvelt að komast þangað með bíl og leiðin býður upp á dásamlegt landslag í gegnum brýr, göng og ólífuviðarlund.",
-    "tags": [
-      "greenway",
-      "nature",
-      "family",
-      "accessible",
-      "historic",
-      "inland"
-    ],
-    "address": null,
-    "lat": 36.938,
-    "lng": -5.265,
-    "price_range": "free",
-    "equipment_rental": false,
-    "best_time": "morning",
-    "sources": [
-      "knowledge"
-    ],
-    "source_urls": [
-      null
-    ],
-    "id": "cadiz-hills-greenway"
   },
   {
     "name": "Paseo por el Casco Histórico de Chipiona",
