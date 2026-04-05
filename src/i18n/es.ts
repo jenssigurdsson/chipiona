@@ -54,4 +54,17 @@ export const es: Translations = {
     my_notes: "Mis notas",
     sources: "Fuentes",
   },
+  tags: {
+    "family": "familia", "free": "gratis", "beach": "playa", "history": "historia",
+    "nature": "naturaleza", "culture": "cultura", "seafood": "mariscos", "coastal": "costero",
+    "local": "local", "tapas": "tapas", "booking required": "reserva obligatoria",
+    "walking": "senderismo", "outdoor": "al aire libre", "sports": "deportes", "traditional": "tradicional",
+    "religion": "religión", "wildlife": "fauna", "costa de la luz": "costa de la luz",
+    "sunset": "atardecer", "historic": "histórico", "horses": "caballos", "national park": "parque nacional",
+    "wine": "vino", "scenic": "paisaje", "romantic": "romántico", "accessible": "accesible",
+    "roman ruins": "ruinas romanas", "celebrity": "famoso", "exhibition": "exposición",
+    "views": "vistas", "architecture": "arquitectura", "rental": "alquiler", "cycling": "ciclismo",
+    "guided": "guiado", "tasting": "degustación", "chiringuito": "chiringuito",
+    "summer": "verano", "quiet": "tranquilo", "natural": "natural", "marshlands": "marismas",
+  } as Record<string, string>,
 };

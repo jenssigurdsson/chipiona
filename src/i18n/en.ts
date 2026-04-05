@@ -52,6 +52,19 @@ export const en = {
     my_notes: "Notes",
     sources: "Sources",
   },
+  tags: {
+    "family": "family", "free": "free", "beach": "beach", "history": "history",
+    "nature": "nature", "culture": "culture", "seafood": "seafood", "coastal": "coastal",
+    "local": "local", "tapas": "tapas", "booking required": "booking required",
+    "walking": "walking", "outdoor": "outdoor", "sports": "sports", "traditional": "traditional",
+    "religion": "religion", "wildlife": "wildlife", "costa de la luz": "costa de la luz",
+    "sunset": "sunset", "historic": "historic", "horses": "horses", "national park": "national park",
+    "wine": "wine", "scenic": "scenic", "romantic": "romantic", "accessible": "accessible",
+    "roman ruins": "roman ruins", "celebrity": "celebrity", "exhibition": "exhibition",
+    "views": "views", "architecture": "architecture", "rental": "rental", "cycling": "cycling",
+    "guided": "guided", "tasting": "tasting", "chiringuito": "chiringuito",
+    "summer": "summer", "quiet": "quiet", "natural": "natural", "marshlands": "marshlands",
+  } as Record<string, string>,
 };
 
 export type Translations = typeof en;

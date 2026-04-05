@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { Heart, CheckCircle, Bike } from "lucide-react";
 import type { Activity, Language } from "../types";
 import { CATEGORY_ICONS, CATEGORY_COLOR } from "./categoryIcons";
+import { t } from "../i18n";
 
 interface Props {
   activity: Activity;
@@ -12,6 +13,7 @@ interface Props {
 }
 
 export function ActivityCard({ activity, lang, isFavorite, isVisited, onClick }: Props) {
+  const tr = t(lang);
   const name =
     lang === "is" ? activity.name_is :
     lang === "es" ? activity.name_es :
@@ -35,7 +37,7 @@ export function ActivityCard({ activity, lang, isFavorite, isVisited, onClick }:
         <div className="card__name">{name}</div>
         <div className="card__tags">
           {activity.tags.slice(0, 4).map((tag) => (
-            <span key={tag} className="tag">{tag}</span>
+            <span key={tag} className="tag">{tr.tags[tag] ?? tag}</span>
           ))}
         </div>
         <div className="card__meta">

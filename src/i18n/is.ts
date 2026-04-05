@@ -54,4 +54,17 @@ export const is: Translations = {
     my_notes: "Mínir minnispunktar",
     sources: "Heimildir",
   },
+  tags: {
+    "family": "fjölskylda", "free": "ókeypis", "beach": "strönd", "history": "saga",
+    "nature": "náttúra", "culture": "menning", "seafood": "sjávarfang", "coastal": "strandsvæði",
+    "local": "staðbundið", "tapas": "tapas", "booking required": "bókun nauðsynleg",
+    "walking": "ganga", "outdoor": "utandyra", "sports": "íþróttir", "traditional": "hefðbundið",
+    "religion": "trúarbrögð", "wildlife": "dýralíf", "costa de la luz": "costa de la luz",
+    "sunset": "sólsetur", "historic": "sögulegt", "horses": "hestar", "national park": "þjóðgarður",
+    "wine": "vín", "scenic": "fallegt útsýni", "romantic": "rómantískt", "accessible": "aðgengilegt",
+    "roman ruins": "rómverskar rústir", "celebrity": "frægt", "exhibition": "sýning",
+    "views": "útsýni", "architecture": "byggingarlist", "rental": "leiga", "cycling": "hjólreiðar",
+    "guided": "leiðsögn", "tasting": "smakk", "chiringuito": "strandbúð",
+    "summer": "sumar", "quiet": "rólegt", "natural": "náttúrulegt", "marshlands": "mýrlendi",
+  } as Record<string, string>,
 };

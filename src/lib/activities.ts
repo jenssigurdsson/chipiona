@@ -9,6 +9,8 @@ export async function loadActivities(): Promise<Activity[]> {
   return cache!;
 }
 
+const CATEGORY_ORDER = ["restaurant","beach","sightseeing","walking","sports","explore","other"];
+
 export function filterActivities(
   activities: Activity[],
   opts: {
@@ -37,5 +39,7 @@ export function filterActivities(
     if (opts.bestTime && opts.bestTime !== "any" && a.best_time && a.best_time !== opts.bestTime)
       return false;
     return true;
-  });
+  }).sort((a, b) =>
+    CATEGORY_ORDER.indexOf(a.category) - CATEGORY_ORDER.indexOf(b.category)
+  );
 }
