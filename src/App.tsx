@@ -1,14 +1,16 @@
 import { useState, useCallback } from "react";
-import { Compass, Map, CalendarDays, Heart } from "lucide-react";
+import { Compass, Map, CalendarDays, Heart, LogIn, LogOut } from "lucide-react";
 import { useActivities } from "./hooks/useActivities";
 import { useLanguage } from "./hooks/useLanguage";
 import { useUserData } from "./hooks/useUserData";
+import { useAuth } from "./hooks/useAuth";
 import { filterActivities } from "./lib/activities";
 import { t } from "./i18n";
 import { CategoryPills } from "./components/CategoryPills";
 import { ActivityCard } from "./components/ActivityCard";
 import { ActivityDetail } from "./components/ActivityDetail";
 import { HomeView } from "./components/HomeView";
+import { LoginSheet } from "./components/LoginSheet";
 import { LanguageSwitcher } from "./components/LanguageSwitcher";
 import { MapView } from "./components/MapView";
 import { ItineraryPlanner } from "./components/ItineraryPlanner";
@@ -21,10 +23,12 @@ export default function App() {
   const { lang, setLang } = useLanguage();
   const tr = t(lang);
 
-  const userId: string | null = null;
+  const { user, signIn, signOut } = useAuth();
+  const userId = user?.id ?? null;
   const { userActivities, toggleFavorite, toggleVisited, saveNote } = useUserData(userId);
 
   const [tab, setTab] = useState<Tab>("list");
+  const [showLogin, setShowLogin] = useState(false);
   const [category, setCategory] = useState<Category | "all">("all");
   const [query, setQuery] = useState("");
   const [selected, setSelected] = useState<Activity | null>(null);
@@ -52,6 +56,15 @@ export default function App() {
         <span className="header__title">{tr.app_name}</span>
         <div className="header__actions">
           <LanguageSwitcher lang={lang} setLang={setLang} />
+          {user ? (
+            <button className="lang-btn" onClick={signOut} title={tr.ui.logout}>
+              <LogOut size={13} strokeWidth={2} />
+            </button>
+          ) : (
+            <button className="lang-btn" onClick={() => setShowLogin(true)} title={tr.ui.login}>
+              <LogIn size={13} strokeWidth={2} />
+            </button>
+          )}
         </div>
       </header>
 
@@ -124,8 +137,21 @@ export default function App() {
 
         {tab === "mylist" && (
           <div style={{ padding: 16 }}>
-            {Object.entries(userActivities).filter(([, ua]) => ua.is_favorite).length === 0 ? (
-              <div className="empty">❤️<br />Sign in to save favourites</div>
+            {!user ? (
+              <div className="empty" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 12 }}>
+                <Heart size={36} strokeWidth={1.25} color="var(--sand)" />
+                <span>{tr.ui.my_favorites}</span>
+                <button className="btn-primary" style={{ width: "auto", padding: "10px 24px" }} onClick={() => setShowLogin(true)}>
+                  <span style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                    <LogIn size={14} strokeWidth={2} /> {tr.ui.login}
+                  </span>
+                </button>
+              </div>
+            ) : Object.entries(userActivities).filter(([, ua]) => ua.is_favorite).length === 0 ? (
+              <div className="empty">
+                <Heart size={36} strokeWidth={1.25} color="var(--sand)" style={{ margin: "0 auto 8px" }} />
+                <br />{tr.ui.my_favorites}
+              </div>
             ) : (
               <div className="card-list">
                 {Object.values(userActivities)
@@ -169,6 +195,14 @@ export default function App() {
           );
         })}
       </nav>
+
+      {showLogin && (
+        <LoginSheet
+          lang={lang}
+          onClose={() => setShowLogin(false)}
+          onSignIn={signIn}
+        />
+      )}
 
       {selected && (
         <ActivityDetail
