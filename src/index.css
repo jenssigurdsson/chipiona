@@ -240,6 +240,23 @@ button { cursor: pointer; font-family: var(--font-body); }
 }
 .lang-btn.active { background: var(--tile); border-color: var(--tile); color: var(--white); }
 
+/* Avatar button */
+.avatar-btn {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--tile);
+  color: var(--white);
+  font-size: 12px;
+  font-weight: 700;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.15s;
+}
+.avatar-btn:hover { opacity: 0.8; }
+
 /* Empty / loading */
 .empty { text-align: center; padding: 60px 20px; color: #aaa; font-size: 15px; }
 

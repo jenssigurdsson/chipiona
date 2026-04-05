@@ -57,8 +57,12 @@ export default function App() {
         <div className="header__actions">
           <LanguageSwitcher lang={lang} setLang={setLang} />
           {user ? (
-            <button className="lang-btn" onClick={signOut} title={tr.ui.logout}>
-              <LogOut size={13} strokeWidth={2} />
+            <button
+              className="avatar-btn"
+              onClick={signOut}
+              title={tr.ui.logout}
+            >
+              {(user.email ?? "?")[0].toUpperCase()}
             </button>
           ) : (
             <button className="lang-btn" onClick={() => setShowLogin(true)} title={tr.ui.login}>
