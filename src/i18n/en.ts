@@ -1,7 +1,7 @@
 export const en = {
   app_name: "Chipiona Guide",
   categories: {
-    all: "All",
+    all: "Home",
     walking: "Walking",
     sightseeing: "Sightseeing",
     restaurant: "Restaurants",
@@ -51,6 +51,7 @@ export const en = {
     my_visited: "Visited",
     my_notes: "Notes",
     sources: "Sources",
+    see_all: "See all",
   },
   tags: {
     "family": "family", "free": "free", "beach": "beach", "history": "history",

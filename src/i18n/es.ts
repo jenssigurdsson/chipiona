@@ -3,7 +3,7 @@ import type { Translations } from "./en";
 export const es: Translations = {
   app_name: "Guía Chipiona",
   categories: {
-    all: "Todo",
+    all: "Inicio",
     walking: "Rutas a pie",
     sightseeing: "Monumentos",
     restaurant: "Restaurantes",
@@ -53,6 +53,7 @@ export const es: Translations = {
     my_visited: "Visitados",
     my_notes: "Mis notas",
     sources: "Fuentes",
+    see_all: "Ver todos",
   },
   tags: {
     "family": "familia", "free": "gratis", "beach": "playa", "history": "historia",

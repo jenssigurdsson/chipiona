@@ -8,6 +8,7 @@ import { t } from "./i18n";
 import { CategoryPills } from "./components/CategoryPills";
 import { ActivityCard } from "./components/ActivityCard";
 import { ActivityDetail } from "./components/ActivityDetail";
+import { HomeView } from "./components/HomeView";
 import { LanguageSwitcher } from "./components/LanguageSwitcher";
 import { MapView } from "./components/MapView";
 import { ItineraryPlanner } from "./components/ItineraryPlanner";
@@ -59,32 +60,47 @@ export default function App() {
       <main className="content">
         {tab === "list" && (
           <>
-            <CategoryPills active={category} onChange={setCategory} lang={lang} />
-            <div className="search-bar">
-              <input
-                type="search"
-                placeholder={tr.ui.search_placeholder}
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-              />
-            </div>
-            {loading ? (
-              <div className="empty">{tr.ui.loading}</div>
-            ) : filtered.length === 0 ? (
-              <div className="empty">{tr.ui.no_results}</div>
+            <CategoryPills active={category} onChange={(cat) => { setCategory(cat); setQuery(""); }} lang={lang} />
+            {category === "all" ? (
+              loading ? (
+                <div className="empty">{tr.ui.loading}</div>
+              ) : (
+                <HomeView
+                  activities={activities}
+                  lang={lang}
+                  onSelect={setSelected}
+                  onSeeAll={(cat) => setCategory(cat)}
+                />
+              )
             ) : (
-              <div className="card-list">
-                {filtered.map((a) => (
-                  <ActivityCard
-                    key={a.id}
-                    activity={a}
-                    lang={lang}
-                    isFavorite={userActivities[a.id]?.is_favorite ?? false}
-                    isVisited={userActivities[a.id]?.is_visited ?? false}
-                    onClick={() => setSelected(a)}
+              <>
+                <div className="search-bar">
+                  <input
+                    type="search"
+                    placeholder={tr.ui.search_placeholder}
+                    value={query}
+                    onChange={(e) => setQuery(e.target.value)}
                   />
-                ))}
-              </div>
+                </div>
+                {loading ? (
+                  <div className="empty">{tr.ui.loading}</div>
+                ) : filtered.length === 0 ? (
+                  <div className="empty">{tr.ui.no_results}</div>
+                ) : (
+                  <div className="card-list">
+                    {filtered.map((a) => (
+                      <ActivityCard
+                        key={a.id}
+                        activity={a}
+                        lang={lang}
+                        isFavorite={userActivities[a.id]?.is_favorite ?? false}
+                        isVisited={userActivities[a.id]?.is_visited ?? false}
+                        onClick={() => setSelected(a)}
+                      />
+                    ))}
+                  </div>
+                )}
+              </>
             )}
           </>
         )}

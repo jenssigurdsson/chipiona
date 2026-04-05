@@ -3,7 +3,7 @@ import type { Translations } from "./en";
 export const is: Translations = {
   app_name: "Chipiona leiðarvísir",
   categories: {
-    all: "Allt",
+    all: "Heim",
     walking: "Gönguleiðir",
     sightseeing: "Skoðunarferðir",
     restaurant: "Veitingastaðir",
@@ -53,6 +53,7 @@ export const is: Translations = {
     my_visited: "Heimsótt",
     my_notes: "Mínir minnispunktar",
     sources: "Heimildir",
+    see_all: "Sjá alla",
   },
   tags: {
     "family": "fjölskylda", "free": "ókeypis", "beach": "strönd", "history": "saga",
